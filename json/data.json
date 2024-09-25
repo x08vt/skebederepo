@@ -1,4 +1,46 @@
 {
-  "data": "Hello World!",
-  "source": "github pages"
+  "apps": [
+    {
+      "beta": false,
+      "bundleIdentifier": "com.spotify.Spotify",
+      "developerName": "Riley Testut",
+      "downloadURL": "https://www.dropbox.com/scl/fi/71qwnmu4xwqw7zizltxet/EeveeSpotify.ipa?rlkey=peaz7xy1970v8uvqmqtt5fgkk&st=b2f9cp6q&dl=1",
+      "iconURL": "https://i.imgur.com/Eixx1gV.png",
+      "localizedDescription": "eeveespotify ver 5.2",
+      "name": "EeveeSpotify",
+      "screenshotURLs": [
+        "https://user-images.githubusercontent.com/705880/65605563-2f009d00-df5e-11e9-9b40-1f36135d5c80.PNG",
+        "https://user-images.githubusercontent.com/705880/65605569-30ca6080-df5e-11e9-8dfb-15ebb00e10cb.PNG",
+        "https://user-images.githubusercontent.com/705880/65605577-332cba80-df5e-11e9-9f00-b369ce974f71.PNG"
+      ],
+      "size": 252100000,
+      "subtitle": "v5.2",
+      "tintColor": "",
+      "version": "1.3b2",
+      "versionDate": "2024-09-18T14:00:00-07:00",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.epicgames.FortNiteMobile",
+      "developerName": "Epic Games",
+      "downloadURL": "https://www.dropbox.com/scl/fi/qoe4eoaqiuaj1wqvnngsl/Fortnite.ipa?rlkey=08msqcb8kh040sea5ykw6dskd&st=ae4gxt3p&dl=1",
+      "iconURL": "https://i.imgur.com/ntGWdaX.png",
+      "localizedDescription": "skibidi fortnut v 31.20.1",
+      "name": "Fortnut",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "v31.20.1",
+      "tintColor": "",
+      "version": "31.20.1",
+      "versionDate": "2024-09-25T14:00:00-07:00",
+      "versionDescription": ""
+    }
+  ],
+  "identifier": "com.skibidi.skibidi",
+  "name": "The Skibidi Repo",
+  "news": [],
+  "userInfo": {}
 }
