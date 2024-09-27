@@ -1,0 +1,37 @@
+{
+  "name": "the sigma repo",
+  "identifier": "the.sigma.repo",
+  "sourceURL": "https://x08vt.github.io/json/base.json",
+  "apps": [
+    {
+      "name": "ESign Standard",
+      "bundleIdentifier": "p3.xyz.yyyue.esign",
+      "developerName": "yyy",
+      "version": "5.0.2",
+      "versionDate": "2024-01-28T21:40:00+08:00",
+      "versionDescription": "Optimizes the functionality injected into dylib\nfix bug",
+      "downloadURL": "https://pan.yyyue.xyz/d/esign/esign_5.0.2_unsigned.ipa",
+      "localizedDescription": "this is the esign unmodified version",
+      "iconURL": "https://esign.yyyue.xyz/ESignLogo200.png",
+      "tintColor": "018084",
+      "isLanZouCloud": 0,
+      "size": 7206362,
+      "type": 1
+    },
+    {
+      "name": "Fortnut",
+      "bundleIdentifier": "com.epicgames.FortNiteMobile",
+      "developerName": "Epic Games",
+      "version": "31.20.1",
+      "versionDate": "2024-09-25T22:20:00+08:00",
+      "versionDescription": "fix bugs for frame drops",
+      "downloadURL": "https://www.dropbox.com/scl/fi/qoe4eoaqiuaj1wqvnngsl/Fortnite.ipa?rlkey=08msqcb8kh040sea5ykw6dskd&st=ae4gxt3p&dl=1",
+      "localizedDescription": "Explore large, destructible environments where no two games are ever the same. Team up with friends by sprinting, climbing and smashing your way to earn your Victory Royale, whether you choose to build up in Fortnite Battle Royale or go no-builds in Fortnite Zero Build.\n\n\nDiscover even more ways to play across thousands of creator-made game genres: adventure, roleplay, survival and more. Or, band together with up to three friends to fend off hordes of monsters in Save the World.",
+      "iconURL": "https://i.imgur.com/ntGWdaX.png",
+      "tintColor": "018084",
+      "isLanZouCloud": 0,
+      "size": 7206362,
+      "type": 1
+    }
+  ]
+}
