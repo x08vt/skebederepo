@@ -2,6 +2,24 @@
   "apps": [
     {
       "beta": false,
+      "bundleIdentifier": "com.mrrobotmouse.gamevpn",
+      "developerName": "mrrobotmouse",
+      "downloadURL": "https://github.com/x08vt/skebederepo/releases/download/lel/GamingVPN.ipa",
+      "iconURL": "https://x08vt.github.io/skebederepo/img/GamingVPN.png",
+      "localizedDescription": "Injected with Premium",
+      "name": "Gaming VPN",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 46203989,
+      "subtitle": "slvwixx repo",
+      "tintColor": "000",
+      "version": "2.1.4",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
       "bundleIdentifier": "kh.crysalis.feather",
       "developerName": "khcrysalis",
       "downloadURL": "https://github.com/x08vt/skebederepo/releases/download/lel/FeatherSign.ipa",
