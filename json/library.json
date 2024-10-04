@@ -1,0 +1,83 @@
+{
+  "apps": [
+    {
+      "beta": false,
+      "bundleIdentifier": "com.epicgames.FortniteGame",
+      "developerName": "Epic Games",
+      "downloadURL": "https://github.com/x08vt/skebederepo/releases/download/lel/FortniteHF.ipa",
+      "iconURL": "https://i.imgur.com/Ja63b0X.png",
+      "localizedDescription": "Explore large, destructible environments where no two games are ever the same. Team up with friends by sprinting, climbing and smashing your way to earn your Victory Royale, whether you choose to build up in Fortnite Battle Royale or go no-builds in Fortnite Zero Build.Discover even more ways to play across thousands of creator-made game genres: adventure, roleplay, survival and more. Or, band together with up to three friends to fend off hordes of monsters in Save the World.",
+      "name": "Fortnite HighFPS",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 266338304,
+      "subtitle": "v31.30 + CAHighFPS",
+      "tintColor": "000",
+      "version": "31.30",
+      "versionDate": "2024-10-01T14:00:00-07:00",
+      "versionDescription": "nothing"
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.epicgames.FortniteGame",
+      "developerName": "Epic Games",
+      "downloadURL": "https://github.com/x08vt/skebederepo/releases/download/lel/Fortnite.ipa",
+      "iconURL": "https://i.imgur.com/Ja63b0X.png",
+      "localizedDescription": "",
+      "name": "Fortnite",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 265289728,
+      "subtitle": "Fortnite iOS v31.30",
+      "tintColor": "000000",
+      "version": "31.30",
+      "versionDate": "2024-10-01T22:20:00+08:00",
+      "versionDescription": "nothing"
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "p3.xyz.yyyue.esign",
+      "developerName": "yyy",
+      "downloadURL": "https://pan.yyyue.xyz/d/esign/esign_5.0.2_unsigned.ipa",
+      "iconURL": "https://esign.yyyue.xyz/ESignLogo200.png",
+      "localizedDescription": "this is the esign unmodified version",
+      "name": "E-Sign Standard",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 7206362,
+      "subtitle": "Optimizes the functionality injected into dylib\\nfix bug",
+      "tintColor": "000000",
+      "version": "5.0.2",
+      "versionDate": "2024-01-28T21:40:00+08:00",
+      "versionDescription": "nothing"
+    }
+  ],
+  "identifier": "com.example.source",
+  "name": "slvwixx repo",
+  "news": [
+    {
+      "appID": "",
+      "caption": "",
+      "date": "4327-12-289",
+      "identifier": "",
+      "imageURL": "https://i.ytimg.com/vi/ihYi2dJiNrU/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAAlAADIQj0AgKJD8AEB-AG-BIACgAiKAgwIABABGEcgZShLMA8=&rs=AOn4CLByddNEOPxSiyhAACjhuCiaFLQBvg",
+      "notify": false,
+      "tintColor": "",
+      "title": "Why so feinious"
+    },
+    {
+      "appID": "",
+      "caption": "",
+      "date": "4978-12-207",
+      "identifier": "",
+      "imageURL": "https://preview.redd.it/whats-the-deep-philosophical-reason-he-is-called-the-jonkler-v0-4qx1rz0sz0id1.jpeg?auto=webp&s=27d63e40bac3eec17dd1626df3cbfca26fa6ca2d",
+      "notify": false,
+      "tintColor": "",
+      "title": "Why so serious"
+    }
+  ],
+  "userInfo": {}
+}
