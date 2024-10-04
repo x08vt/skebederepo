@@ -15,7 +15,7 @@
         "https://i.imgur.com/sRbutBl_d.webp?maxwidth=760&fidelity=grand"
       ],
       "size": 79691776,
-      "subtitle": "",
+      "subtitle": "slvwixx repo",
       "tintColor": "000",
       "version": "5.3",
       "versionDate": "2024-10-01T14:00:00-07:00",
@@ -24,7 +24,7 @@
     {
       "beta": false,
       "bundleIdentifier": "com.epicgames.FortniteGame",
-      "developerName": "vedma1337",
+      "developerName": "Epic Games",
       "downloadURL": "https://github.com/x08vt/skebederepo/releases/download/lel/FortniteHF.ipa",
       "iconURL": "https://x08vt.github.io/skebederepo/img/Fortnite.png",
       "localizedDescription": "Explore large, destructible environments where no two games are ever the same. Team up with friends by sprinting, climbing and smashing your way to earn your Victory Royale, whether you choose to build up in Fortnite Battle Royale or go no-builds in Fortnite Zero Build. Discover even more ways to play across thousands of creator-made game genres: adventure, roleplay, survival and more. Or, band together with up to three friends to fend off hordes of monsters in Save the World.",
@@ -36,7 +36,7 @@
         "https://i.imgur.com/k4n3Btf_d.webp?maxwidth=1520&fidelity=grand"
       ],
       "size": 266338304,
-      "subtitle": "",
+      "subtitle": "slvwixx repo",
       "tintColor": "000",
       "version": "31.30.1",
       "versionDate": "2024-10-04T14:00:00-07:00",
@@ -45,7 +45,7 @@
     {
       "beta": false,
       "bundleIdentifier": "com.epicgames.FortniteGame",
-      "developerName": "vedma1337",
+      "developerName": "Epic Games",
       "downloadURL": "https://github.com/x08vt/skebederepo/releases/download/lel/Fortnite.ipa",
       "iconURL": "https://x08vt.github.io/skebederepo/img/FortniteAlt.PNG",
       "localizedDescription": "Explore large, destructible environments where no two games are ever the same. Team up with friends by sprinting, climbing and smashing your way to earn your Victory Royale, whether you choose to build up in Fortnite Battle Royale or go no-builds in Fortnite Zero Build. Discover even more ways to play across thousands of creator-made game genres: adventure, roleplay, survival and more. Or, band together with up to three friends to fend off hordes of monsters in Save the World.",
@@ -57,10 +57,10 @@
         "https://i.imgur.com/k4n3Btf_d.webp?maxwidth=1520&fidelity=grand"
       ],
       "size": 266338304,
-      "subtitle": "",
+      "subtitle": "slvwixx repo",
       "tintColor": "000000",
       "version": "31.30.1",
-      "versionDate": "2024-10-04T22:20:00+08:00",
+      "versionDate": "2024-10-04T14:00:00-07:00",
       "versionDescription": ""
     },
     {
@@ -69,13 +69,16 @@
       "developerName": "E-Sign (yyy)",
       "downloadURL": "https://github.com/x08vt/skebederepo/releases/download/lel/ESign.ipa",
       "iconURL": "https://x08vt.github.io/skebederepo/img/ESign.png",
-      "localizedDescription": "",
+      "localizedDescription": "Sign application for iOS is a software tool that enables users to sign documents electronically using their Apple devices, such as iPhones and iPads.\n\nTypically, these applications allow users to:\n1. Upload Documents: Import PDFs or other document types from various sources, including email, cloud storage, or directly from the device.\n2. Sign Documents: Utilize touch or stylus input to create a digital signature, which can be saved for future use.\n3. Form Filling: Fill out forms and add text, checkboxes, and other annotations to documents.\n4. Secure Signing: Ensure document integrity through encryption and authentication methods, often including options for secure authentication.\n5. Tracking and Notifications: Provide functionalities to track document status, send reminders, and notify parties when documents are signed.\n6. Integration: Many eSign apps integrate with other software solutions like document management systems, email clients, and productivity tools.",
       "name": "E-Sign",
       "screenshotURLs": [
-        ""
+        "https://i.imgur.com/XaXI9f0.png",
+        "https://i.imgur.com/TuPqHtX.png",
+        "https://i.imgur.com/b9ApnQ9.jpeg",
+        "https://i.imgur.com/z2IY5yT.png"
       ],
       "size": 7206362,
-      "subtitle": "",
+      "subtitle": "slvwixx repo",
       "tintColor": "000000",
       "version": "5.0.2",
       "versionDate": "2024-01-28T21:40:00+08:00",
