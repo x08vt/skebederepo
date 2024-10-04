@@ -2,6 +2,27 @@
   "apps": [
     {
       "beta": false,
+      "bundleIdentifier": "kh.crysalis.feather",
+      "developerName": "khcrysalis",
+      "downloadURL": "https://github.com/x08vt/skebederepo/releases/download/lel/FeatherSign.ipa",
+      "iconURL": "https://x08vt.github.io/skebederepo/img/FeatherSign.png",
+      "localizedDescription": "Feather is a free on-device iOS application manager/installer built with UIKit for quality.\n\nFeatures:\n\nAltstore repo support. Supporting Legacy and 2.0 repo structures\nImport your own .ipa's.\nInject tweaks when signing apps.\nInstall applications straight to your device seamlessly over the air.\nAllows multiple certificate imports for easy switching.\nConfigurable signing options. (name, bundleid, version, other plist options)\nMeant to be used with Apple Accounts that are apart of ADP (Apple Developer Program). however other certificates can also work!\nEasy resigning! If you have another certificate you would like to use on an app you may resign and reinstall that same app!\nNo tracking, analytics, or any of the sort. Your information such as UDID and certificates will never leave the device.",
+      "name": "Feather",
+      "screenshotURLs": [
+        "https://github.com/khcrysalis/Feather/raw/v1.0.4/Images/Repos_L.png",
+        "https://github.com/khcrysalis/Feather/raw/v1.0.4/Images/Store_L.png",
+        "https://github.com/khcrysalis/Feather/raw/v1.0.4/Images/Library_L.png",
+        "https://github.com/khcrysalis/Feather/raw/v1.0.4/Images/Sign_L.png"
+      ],
+      "size": 10485760,
+      "subtitle": "slvwixx repo",
+      "tintColor": "000",
+      "version": "1.0.4",
+      "versionDate": "2024-10-04T14:00:00-07:00",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
       "bundleIdentifier": "com.spotify.client",
       "developerName": "whoeevee",
       "downloadURL": "https://github.com/x08vt/skebederepo/releases/download/lel/EeveeSpotify.ipa",
@@ -85,9 +106,9 @@
       "versionDescription": ""
     }
   ],
+  "iconURL": "https://i.imgur.com/qikUVnD.png",
   "identifier": "com.slvwixx.repo",
   "name": "slvwixx repo",
-  "iconURL": "https://i.imgur.com/qikUVnD.png",
   "news": [
     {
       "appID": "",
