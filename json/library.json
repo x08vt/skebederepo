@@ -2,6 +2,26 @@
   "apps": [
     {
       "beta": false,
+      "bundleIdentifier": "org.brandonplank.flappybird",
+      "developerName": "Brandon Plank",
+      "downloadURL": "https://github.com/crypticplank/flappybird/releases/download/4.3/org.brandonplank.flappybird.ipa",
+      "iconURL": "https://i.imgur.com/tIUJeSs.png",
+      "localizedDescription": "This Flappy Bird is a revival of the original Flappy Bird by Dong Nguyen. There are a many new features to enhance gameplay as well!\n\n• Tap to flap\n• Avoid the hitting the pipes\n• Flap for infinity!",
+      "name": "Flappy Bird",
+      "screenshotURLs": [
+        "https://i.imgur.com/nIq1VVv.png",
+        "https://i.imgur.com/TZBdg7M.png",
+        "https://i.imgur.com/41u9JUh.png"
+      ],
+      "size": 2099365,
+      "subtitle": "slvwixx repo",
+      "tintColor": "49cc48",
+      "version": "4.3",
+      "versionDate": "2022-06-14T20:54:11Z",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
       "bundleIdentifier": "com.mrrobotmouse.gamevpn",
       "developerName": "mrrobotmouse",
       "downloadURL": "https://github.com/x08vt/skebederepo/releases/download/lel/GamingVPN.ipa",
@@ -16,7 +36,7 @@
       ],
       "size": 46203989,
       "subtitle": "slvwixx repo",
-      "tintColor": "000",
+      "tintColor": "53b2d0",
       "version": "2.1.4",
       "versionDate": "2020-03-24T14:00:00-07:00",
       "versionDescription": ""
@@ -37,7 +57,7 @@
       ],
       "size": 10485760,
       "subtitle": "slvwixx repo",
-      "tintColor": "000",
+      "tintColor": "848ff9",
       "version": "1.0.4",
       "versionDate": "2024-10-04T14:00:00-07:00",
       "versionDescription": ""
@@ -58,7 +78,7 @@
       ],
       "size": 79691776,
       "subtitle": "slvwixx repo",
-      "tintColor": "000",
+      "tintColor": "1bd95b",
       "version": "5.3",
       "versionDate": "2024-10-01T14:00:00-07:00",
       "versionDescription": ""
@@ -79,7 +99,7 @@
       ],
       "size": 266338304,
       "subtitle": "slvwixx repo",
-      "tintColor": "000",
+      "tintColor": "6cd9f8",
       "version": "31.30.1",
       "versionDate": "2024-10-04T14:00:00-07:00",
       "versionDescription": ""
@@ -100,7 +120,7 @@
       ],
       "size": 266338304,
       "subtitle": "slvwixx repo",
-      "tintColor": "000000",
+      "tintColor": "852afa",
       "version": "31.30.1",
       "versionDate": "2024-10-04T14:00:00-07:00",
       "versionDescription": ""
@@ -121,7 +141,7 @@
       ],
       "size": 7206362,
       "subtitle": "slvwixx repo",
-      "tintColor": "000000",
+      "tintColor": "4b9df7",
       "version": "5.0.2",
       "versionDate": "2024-01-28T21:40:00+08:00",
       "versionDescription": ""
@@ -133,7 +153,7 @@
   "news": [
     {
       "appID": "",
-      "caption": "",
+      "caption": "Why so serious fein fein fein fin fin fin fein",
       "date": "2024-10-02",
       "identifier": "",
       "imageURL": "https://i.ytimg.com/vi/ihYi2dJiNrU/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAAlAADIQj0AgKJD8AEB-AG-BIACgAiKAgwIABABGEcgZShLMA8=&rs=AOn4CLByddNEOPxSiyhAACjhuCiaFLQBvg",
@@ -144,7 +164,7 @@
     },
     {
       "appID": "",
-      "caption": "",
+      "caption": "Why so serious 🤡😂🤡😂🤡😂🤡😂🤡😂🤡😂🤡😂🤡😂",
       "date": "2024-10-02",
       "identifier": "",
       "imageURL": "https://preview.redd.it/whats-the-deep-philosophical-reason-he-is-called-the-jonkler-v0-4qx1rz0sz0id1.jpeg?auto=webp&s=27d63e40bac3eec17dd1626df3cbfca26fa6ca2d",
