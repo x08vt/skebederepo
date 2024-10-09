@@ -128,7 +128,7 @@
     },
     {
       "beta": false,
-      "bundleIdentifier": "com.epicgames.FortniteGame",
+      "bundleIdentifier": "com.epicgames.CAFortniteGame",
       "developerName": "Epic Games",
       "downloadURL": "https://github.com/x08vt/skebederepo/releases/download/lel/FortniteHF.ipa",
       "iconURL": "https://x08vt.github.io/skebederepo/img/Fortnite.png",
