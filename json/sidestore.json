@@ -3,27 +3,6 @@
   "apps": [
     {
       "beta": false,
-      "bundleIdentifier": "com.spotify.client",
-      "developerName": "whoeevee",
-      "downloadURL": "https://github.com/x08vt/skebederepo/releases/download/lel/EeveeSpotify.ipa",
-      "iconURL": "https://x08vt.github.io/skebederepo/img/Spotify.PNG",
-      "localizedDescription": "This tweak makes Spotify think you have a Premium subscription, granting free listening, just like Spotilife, and provides some additional features like custom lyrics.\n\nThe following features will not work, EVER:\n- Very High audio quality\n- Native playlist downloading (you can download podcast episodes though)\n- Jam (hosting a Spotify Jam and joining it remotely requires Premium; only joining in-person works)",
-      "name": "EeveeSpotify",
-      "screenshotURLs": [
-        "https://i.imgur.com/y8Pq0aT.jpeg",
-        "https://i.imgur.com/GMqDMvR_d.webp?maxwidth=760&fidelity=grand",
-        "https://i.imgur.com/aULGmGJ_d.webp?maxwidth=760&fidelity=grand",
-        "https://i.imgur.com/sRbutBl_d.webp?maxwidth=760&fidelity=grand"
-      ],
-      "size": 80740352,
-      "subtitle": "slvwixx repo",
-      "tintColor": "1fd75d",
-      "version": "5.4 (8.9.80)",
-      "versionDate": "2024-10-06T14:00:00-07:00",
-      "versionDescription": ""
-    },
-    {
-      "beta": false,
       "bundleIdentifier": "com.mrrobotmouse.gamevpn",
       "developerName": "mrrobotmouse",
       "downloadURL": "https://github.com/x08vt/skebederepo/releases/download/lel/GamingVPN.ipa",
@@ -73,10 +52,10 @@
       "localizedDescription": "Explore large, destructible environments where no two games are ever the same. Team up with friends by sprinting, climbing and smashing your way to earn your Victory Royale, whether you choose to build up in Fortnite Battle Royale or go no-builds in Fortnite Zero Build. Discover even more ways to play across thousands of creator-made game genres: adventure, roleplay, survival and more. Or, band together with up to three friends to fend off hordes of monsters in Save the World.",
       "name": "Fortnite",
       "screenshotURLs": [
-        "https://i.imgur.com/14yYjrZ_d.webp?maxwidth=1520&fidelity=grand",
-        "https://i.imgur.com/rz0cO70.jpeg",
-        "https://i.imgur.com/wzZgfrE_d.webp?maxwidth=1520&fidelity=grand",
-        "https://i.imgur.com/k4n3Btf_d.webp?maxwidth=1520&fidelity=grand"
+        "https://x08vt.github.io/skebederepo/img/screenshots/Fortnite/ss1.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/Fortnite/ss2.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/Fortnite/ss3.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/Fortnite/ss4.png"
       ],
       "size": 266338304,
       "subtitle": "slvwixx repo",
@@ -86,7 +65,30 @@
       "versionDescription": ""
     },
     {
-      "appID": "com.libretro.RetroArchiOS11",
+      "absoluteVersion": "1.13.2",
+      "appID": "com.spotify.client",
+      "bundleIdentifier": "com.spotify.client",
+      "developerName": "whoeevee",
+      "downloadURL": "https://github.com/x08vt/skebederepo/releases/download/lel/EeveeSpotify.ipa",
+      "iconURL": "https://x08vt.github.io/skebederepo/img/Spotify.PNG",
+      "localizedDescription": "This tweak makes Spotify think you have a Premium subscription, granting free listening, just like Spotilife, and provides some additional features like custom lyrics.\n\nThe following features will not work, EVER:\n- Very High audio quality\n- Native playlist downloading (you can download podcast episodes though)\n- Jam (hosting a Spotify Jam and joining it remotely requires Premium; only joining in-person works)",
+      "name": "EeveeSpotify",
+      "screenshotURLs": [
+        "https://i.imgur.com/y8Pq0aT.jpeg",
+        "https://i.imgur.com/GMqDMvR_d.webp?maxwidth=760&fidelity=grand",
+        "https://i.imgur.com/aULGmGJ_d.webp?maxwidth=760&fidelity=grand",
+        "https://i.imgur.com/sRbutBl_d.webp?maxwidth=760&fidelity=grand"
+      ],
+      "size": 80740352,
+      "subtitle": "slvwixx repo",
+      "tintColor": "1bd95b",
+      "version": "5.4 (8.9.80)",
+      "versionDate": "2024-10-01T14:00:00-07:00",
+      "versionDescription": "",
+      "versions": []
+    },
+    {
+      "appID": "com.epicgames.FortniteGame",
       "bundleIdentifier": "com.epicgames.FortniteGame",
       "developerName": "Epic Games",
       "downloadURL": "https://github.com/x08vt/skebederepo/releases/download/lel/FortniteHF.ipa",
@@ -106,22 +108,7 @@
       "version": "31.30.1",
       "versionDate": "2024-10-04T14:00:00-07:00",
       "versionDescription": "",
-      "versions": [
-        {
-          "date": "2022-10-18",
-          "downloadURL": "https://buildbot.libretro.com/stable/1.12.0/apple/ios-arm64/RetroArch.ipa",
-          "localizedDescription": "Many bug fixes and quality of life improvements. See full changelog for details: https://github.com/libretro/RetroArch/blob/master/CHANGES.md",
-          "size": 255389680,
-          "version": "1.12.0"
-        },
-        {
-          "date": "2020-08-07",
-          "downloadURL": "https://github.com/QuarkSources/quarksources.github.io/releases/download/v1.0/RetroArch.ipa",
-          "localizedDescription": "Many bug fixes and quality of life improvements. See full changelog for details: https://github.com/libretro/RetroArch/blob/master/CHANGES.md",
-          "size": 255389680,
-          "version": "1.9.0"
-        }
-      ]
+      "versions": []
     },
     {
       "absoluteVersion": "4.3",
@@ -142,16 +129,7 @@
       "version": "4.3",
       "versionDate": "2022-06-14T20:54:11Z",
       "versionDescription": "",
-      "versions": [
-        {
-          "absoluteVersion": "4.3",
-          "date": "2022-06-14T20:54:11Z",
-          "downloadURL": "https://github.com/crypticplank/flappybird/releases/download/4.3/org.brandonplank.flappybird.ipa",
-          "localizedDescription": "# 4.3\n\n**Full Changelog**: https://github.com/crypticplank/flappybird/compare/4.2.0...4.3\r\n* Removed Leaderboard\r\n* Removed Accounts\r\n* Removed Anti-Cheat",
-          "size": 2099365,
-          "version": "4.3"
-        }
-      ]
+      "versions": []
     },
     {
       "bundleIdentifier": "p3.xyz.yyyue.esign",
@@ -160,12 +138,7 @@
       "iconURL": "https://x08vt.github.io/skebederepo/img/ESign.png",
       "localizedDescription": "Sign application for iOS is a software tool that enables users to sign documents electronically using their Apple devices, such as iPhones and iPads.\n\nTypically, these applications allow users to:\n1. Upload Documents: Import PDFs or other document types from various sources, including email, cloud storage, or directly from the device.\n2. Sign Documents: Utilize touch or stylus input to create a digital signature, which can be saved for future use.\n3. Form Filling: Fill out forms and add text, checkboxes, and other annotations to documents.\n4. Secure Signing: Ensure document integrity through encryption and authentication methods, often including options for secure authentication.\n5. Tracking and Notifications: Provide functionalities to track document status, send reminders, and notify parties when documents are signed.\n6. Integration: Many eSign apps integrate with other software solutions like document management systems, email clients, and productivity tools.",
       "name": "E-Sign",
-      "permissions": [
-        {
-          "type": "photos",
-          "usageDescription": "Allows iNDS to use images from your Photo Library as game artwork."
-        }
-      ],
+      "permissions": [],
       "screenshotURLs": [
         "https://i.imgur.com/XaXI9f0.png",
         "https://i.imgur.com/TuPqHtX.png",
@@ -178,15 +151,7 @@
       "version": "5.0.2",
       "versionDate": "2024-01-28T21:40:00+08:00",
       "versionDescription": "",
-      "versions": [
-        {
-          "date": "2021-03-01T22:39:20Z",
-          "downloadURL": "https://github.com/iNDS-Team/iNDS/releases/download/v1.10.8/iNDS.ipa",
-          "localizedDescription": "Version 1.10.8 fixes the cover art system, thus closing #190. ~~There also appears to be an issue with the previous Cydia release being corrupted, so hopefully, that is fixed in this version.~~\r\n\r\n**Full Changelog**\r\n- Fixed cover art system (#203). Thanks, @unlmtd.\r\n- Fixed compilation errors (#191). Thanks, @jdkula.",
-          "size": 8553596,
-          "version": "1.10.8"
-        }
-      ]
+      "versions": []
     },
     {
       "bundleIdentifier": "ru.nonamedude.iTorrent",
@@ -195,12 +160,7 @@
       "iconURL": "https://i.imgur.com/C3KwMP5.png",
       "localizedDescription": "iTorrent is an ordinary torrent client for iOS with Files app support.\n\nWhat can this app do:\n\n• Download in the background\n• Sequential download (use VLC to watch films while loading)\n• Add torrent files from Share menu (Safari and other apps)\n• Add magnet links directly from Safari\n• Store files in Files app (iOS 11+)\n• File sharing directly from app\n• Download torrent by link\n• Download torrent by magnet\n• Send notification on torrent downloaded\n• FTP Server (unstable)\n• Select files to download or not\n• Change UI to dark theme\n\nNow supporting these localizations:\n• English\n• Russian\n• Turkish",
       "name": "iTorrent",
-      "permissions": [
-        {
-          "type": "photos",
-          "usageDescription": "Allows iTorrent to save files to Photos app."
-        }
-      ],
+      "permissions": [],
       "screenshotURLs": [
         "https://i.imgur.com/0o7qou3.png",
         "https://i.imgur.com/sO510zC.png",
@@ -213,15 +173,7 @@
       "version": "1.8.3",
       "versionDate": "2020-09-20",
       "versionDescription": "",
-      "versions": [
-        {
-          "date": "2020-09-20",
-          "downloadURL": "https://github.com/XITRIX/iTorrent/releases/download/v1.8.3/iTorrent.ipa",
-          "localizedDescription": "What's new:\n\n• Text accessibility support added\n• Huge backend refactoring\n• Libtorrent updated to 1.2.9\n• Minor UI improvements\n• Many bugs fixed (possibly new ones added)",
-          "size": 21218913,
-          "version": "1.8.3"
-        }
-      ]
+      "versions": []
     }
   ],
   "identifier": "com.slvwixx.repo.sidestore",
