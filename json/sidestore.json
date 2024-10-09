@@ -52,10 +52,10 @@
       "localizedDescription": "Explore large, destructible environments where no two games are ever the same. Team up with friends by sprinting, climbing and smashing your way to earn your Victory Royale, whether you choose to build up in Fortnite Battle Royale or go no-builds in Fortnite Zero Build. Discover even more ways to play across thousands of creator-made game genres: adventure, roleplay, survival and more. Or, band together with up to three friends to fend off hordes of monsters in Save the World.",
       "name": "Fortnite",
       "screenshotURLs": [
-        "https://i.imgur.com/XaXI9f0.png",
-        "https://i.imgur.com/TuPqHtX.png",
-        "https://i.imgur.com/b9ApnQ9.jpeg",
-        "https://i.imgur.com/z2IY5yT.png"
+        "https://i.imgur.com/14yYjrZ_d.webp?maxwidth=1520&fidelity=grand",
+        "https://i.imgur.com/rz0cO70.jpeg",
+        "https://i.imgur.com/wzZgfrE_d.webp?maxwidth=1520&fidelity=grand",
+        "https://i.imgur.com/k4n3Btf_d.webp?maxwidth=1520&fidelity=grand"
       ],
       "size": 266338304,
       "subtitle": "slvwixx repo",
@@ -511,7 +511,7 @@
     }
   ],
   "identifier": "com.slvwixx.repo.sidestore",
-  "name": "slvwixx repo - sidestore",
+  "name": "slvwixx repo",
   "news": [
     {
       "appID": "",
