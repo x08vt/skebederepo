@@ -1,5 +1,47 @@
 {
+  "apiVersion": "v2",
   "apps": [
+    {
+      "beta": false,
+      "bundleIdentifier": "com.kdt.livecontainer",
+      "developerName": "khanhduytran0",
+      "downloadURL": "https://github.com/x08vt/skebederepo/releases/download/lel/LiveContainer.ipa",
+      "iconURL": "https://x08vt.github.io/skebederepo/img/LiveContainer",
+      "localizedDescription": "Run iOS app without actually installing it!\n\nAllows you to install unlimited apps (10 apps limit of free developer account do not apply here!), have multiple versions of an app installed and multiple data containers.\n\nWhen JIT is available, codesign is entirely bypassed, no need to sign your apps before installing. Otherwise, app will be signed with the same certificate used by LiveContainer.",
+      "name": "LiveContainer",
+      "screenshotURLs": [
+        "https://x08vt.github.io/skebederepo/img/screenshots/LiveContainer/ss1.PNG",
+        "https://x08vt.github.io/skebederepo/img/screenshots/LiveContainer/ss2.PNG",
+        "https://x08vt.github.io/skebederepo/img/screenshots/LiveContainer/ss3.PNG"
+      ],
+      "size": 194560,
+      "subtitle": "slvwixx repo--THIS APP ONLY TO BE USED ON ALTSTORE OR SIDESTORE",
+      "tintColor": "007bff",
+      "version": "2.1.2",
+      "versionDate": "2024-08-15T14:00:00-07:00",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.spotify.client",
+      "developerName": "whoeevee",
+      "downloadURL": "https://github.com/x08vt/skebederepo/releases/download/lel/EeveeSpotify.ipa",
+      "iconURL": "https://x08vt.github.io/skebederepo/img/Spotify.PNG",
+      "localizedDescription": "This tweak makes Spotify think you have a Premium subscription, granting free listening, just like Spotilife, and provides some additional features like custom lyrics.\n\nThe following features will not work, EVER:\n- Very High audio quality\n- Native playlist downloading (you can download podcast episodes though)\n- Jam (hosting a Spotify Jam and joining it remotely requires Premium; only joining in-person works)",
+      "name": "EeveeSpotify",
+      "screenshotURLs": [
+        "https://i.imgur.com/y8Pq0aT.jpeg",
+        "https://i.imgur.com/GMqDMvR_d.webp?maxwidth=760&fidelity=grand",
+        "https://i.imgur.com/aULGmGJ_d.webp?maxwidth=760&fidelity=grand",
+        "https://i.imgur.com/sRbutBl_d.webp?maxwidth=760&fidelity=grand"
+      ],
+      "size": 79691776,
+      "subtitle": "slvwixx repo",
+      "tintColor": "18843c",
+      "version": "5.4",
+      "versionDate": "2024-10-01T14:00:00-07:00",
+      "versionDescription": ""
+    },
     {
       "beta": false,
       "bundleIdentifier": "com.mrrobotmouse.gamevpn",
@@ -16,7 +58,7 @@
       ],
       "size": 46203989,
       "subtitle": "slvwixx repo",
-      "tintColor": "000",
+      "tintColor": "53b5d2",
       "version": "2.1.4",
       "versionDate": "2020-03-24T14:00:00-07:00",
       "versionDescription": ""
@@ -37,71 +79,8 @@
       ],
       "size": 10485760,
       "subtitle": "slvwixx repo",
-      "tintColor": "000",
-      "version": "1.0.4",
-      "versionDate": "2024-10-04T14:00:00-07:00",
-      "versionDescription": ""
-    },
-    {
-      "beta": false,
-      "bundleIdentifier": "com.spotify.client",
-      "developerName": "whoeevee",
-      "downloadURL": "https://github.com/x08vt/skebederepo/releases/download/lel/EeveeSpotify.ipa",
-      "iconURL": "https://x08vt.github.io/skebederepo/img/Spotify.PNG",
-      "localizedDescription": "This tweak makes Spotify think you have a Premium subscription, granting free listening, just like Spotilife, and provides some additional features like custom lyrics.\n\nThe following features will not work, EVER:\n- Very High audio quality\n- Native playlist downloading (you can download podcast episodes though)\n- Jam (hosting a Spotify Jam and joining it remotely requires Premium; only joining in-person works)",
-      "name": "EeveeSpotify",
-      "screenshotURLs": [
-        "https://i.imgur.com/y8Pq0aT.jpeg",
-        "https://i.imgur.com/GMqDMvR_d.webp?maxwidth=760&fidelity=grand",
-        "https://i.imgur.com/aULGmGJ_d.webp?maxwidth=760&fidelity=grand",
-        "https://i.imgur.com/sRbutBl_d.webp?maxwidth=760&fidelity=grand"
-      ],
-      "size": 79691776,
-      "subtitle": "slvwixx repo",
-      "tintColor": "000",
-      "version": "5.3",
-      "versionDate": "2024-10-01T14:00:00-07:00",
-      "versionDescription": ""
-    },
-    {
-      "beta": false,
-      "bundleIdentifier": "com.epicgames.FortniteGame",
-      "developerName": "Epic Games",
-      "downloadURL": "https://github.com/x08vt/skebederepo/releases/download/lel/FortniteHF.ipa",
-      "iconURL": "https://x08vt.github.io/skebederepo/img/Fortnite.png",
-      "localizedDescription": "Explore large, destructible environments where no two games are ever the same. Team up with friends by sprinting, climbing and smashing your way to earn your Victory Royale, whether you choose to build up in Fortnite Battle Royale or go no-builds in Fortnite Zero Build. Discover even more ways to play across thousands of creator-made game genres: adventure, roleplay, survival and more. Or, band together with up to three friends to fend off hordes of monsters in Save the World.",
-      "name": "Fortnite+CAHighFPS",
-      "screenshotURLs": [
-        "https://i.imgur.com/14yYjrZ_d.webp?maxwidth=1520&fidelity=grand",
-        "https://i.imgur.com/rz0cO70.jpeg",
-        "https://i.imgur.com/wzZgfrE_d.webp?maxwidth=1520&fidelity=grand",
-        "https://i.imgur.com/k4n3Btf_d.webp?maxwidth=1520&fidelity=grand"
-      ],
-      "size": 266338304,
-      "subtitle": "slvwixx repo",
-      "tintColor": "000",
-      "version": "31.30.1",
-      "versionDate": "2024-10-04T14:00:00-07:00",
-      "versionDescription": ""
-    },
-    {
-      "beta": false,
-      "bundleIdentifier": "com.epicgames.FortniteGame",
-      "developerName": "Epic Games",
-      "downloadURL": "https://github.com/x08vt/skebederepo/releases/download/lel/Fortnite.ipa",
-      "iconURL": "https://x08vt.github.io/skebederepo/img/FortniteAlt.PNG",
-      "localizedDescription": "Explore large, destructible environments where no two games are ever the same. Team up with friends by sprinting, climbing and smashing your way to earn your Victory Royale, whether you choose to build up in Fortnite Battle Royale or go no-builds in Fortnite Zero Build. Discover even more ways to play across thousands of creator-made game genres: adventure, roleplay, survival and more. Or, band together with up to three friends to fend off hordes of monsters in Save the World.",
-      "name": "Fortnite",
-      "screenshotURLs": [
-        "https://i.imgur.com/14yYjrZ_d.webp?maxwidth=1520&fidelity=grand",
-        "https://i.imgur.com/rz0cO70.jpeg",
-        "https://i.imgur.com/wzZgfrE_d.webp?maxwidth=1520&fidelity=grand",
-        "https://i.imgur.com/k4n3Btf_d.webp?maxwidth=1520&fidelity=grand"
-      ],
-      "size": 266338304,
-      "subtitle": "slvwixx repo",
-      "tintColor": "000000",
-      "version": "31.30.1",
+      "tintColor": "7c87fa",
+      "version": "1.0.5",
       "versionDate": "2024-10-04T14:00:00-07:00",
       "versionDescription": ""
     },
@@ -114,45 +93,86 @@
       "localizedDescription": "Sign application for iOS is a software tool that enables users to sign documents electronically using their Apple devices, such as iPhones and iPads.\n\nTypically, these applications allow users to:\n1. Upload Documents: Import PDFs or other document types from various sources, including email, cloud storage, or directly from the device.\n2. Sign Documents: Utilize touch or stylus input to create a digital signature, which can be saved for future use.\n3. Form Filling: Fill out forms and add text, checkboxes, and other annotations to documents.\n4. Secure Signing: Ensure document integrity through encryption and authentication methods, often including options for secure authentication.\n5. Tracking and Notifications: Provide functionalities to track document status, send reminders, and notify parties when documents are signed.\n6. Integration: Many eSign apps integrate with other software solutions like document management systems, email clients, and productivity tools.",
       "name": "E-Sign",
       "screenshotURLs": [
-        "https://i.imgur.com/XaXI9f0.png",
-        "https://i.imgur.com/TuPqHtX.png",
-        "https://i.imgur.com/b9ApnQ9.jpeg",
-        "https://i.imgur.com/z2IY5yT.png"
+        "https://x08vt.github.io/skebederepo/img/screenshots/ESign/ss1.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/ESign/ss2.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/ESign/ss3.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/ESign/ss4.png"
       ],
       "size": 7206362,
       "subtitle": "slvwixx repo",
-      "tintColor": "000000",
+      "tintColor": "4b9df7",
       "version": "5.0.2",
       "versionDate": "2024-01-28T21:40:00+08:00",
       "versionDescription": ""
-    }
-  ],
-  "iconURL": "https://i.imgur.com/qikUVnD.png",
-  "identifier": "com.slvwixx.repo",
-  "name": "slvwixx repo",
-  "news": [
-    {
-      "appID": "",
-      "caption": "",
-      "date": "2024-10-02",
-      "identifier": "",
-      "imageURL": "https://i.ytimg.com/vi/ihYi2dJiNrU/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAAlAADIQj0AgKJD8AEB-AG-BIACgAiKAgwIABABGEcgZShLMA8=&rs=AOn4CLByddNEOPxSiyhAACjhuCiaFLQBvg",
-      "notify": false,
-      "tintColor": "",
-      "title": "Why so feinious",
-      "url": "https://www.youtube.com/watch?v=ihYi2dJiNrU"
     },
     {
-      "appID": "",
-      "caption": "",
-      "date": "2024-10-02",
-      "identifier": "",
-      "imageURL": "https://preview.redd.it/whats-the-deep-philosophical-reason-he-is-called-the-jonkler-v0-4qx1rz0sz0id1.jpeg?auto=webp&s=27d63e40bac3eec17dd1626df3cbfca26fa6ca2d",
-      "notify": false,
-      "tintColor": "",
-      "title": "Why so serious",
-      "url": "https://www.youtube.com/watch?v=v9YtiGZnDIc"
+      "beta": false,
+      "bundleIdentifier": "com.epicgames.FortniteGame",
+      "developerName": "Epic Games",
+      "downloadURL": "https://github.com/x08vt/skebederepo/releases/download/lel/Fortnite.ipa",
+      "iconURL": "https://x08vt.github.io/skebederepo/img/FortniteAlt.PNG",
+      "localizedDescription": "Explore large, destructible environments where no two games are ever the same. Team up with friends by sprinting, climbing and smashing your way to earn your Victory Royale, whether you choose to build up in Fortnite Battle Royale or go no-builds in Fortnite Zero Build. Discover even more ways to play across thousands of creator-made game genres: adventure, roleplay, survival and more. Or, band together with up to three friends to fend off hordes of monsters in Save the World.",
+      "name": "Fortnite",
+      "screenshotURLs": [
+        "https://x08vt.github.io/skebederepo/img/screenshots/Fortnite/ss1.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/Fortnite/ss2.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/Fortnite/ss3.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/Fortnite/ss4.png"
+      ],
+      "size": 266338304,
+      "subtitle": "slvwixx repo",
+      "tintColor": "852afa",
+      "version": "31.30.1",
+      "versionDate": "2024-10-04T14:00:00-07:00",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.epicgames.FortniteGame",
+      "developerName": "Epic Games",
+      "downloadURL": "https://github.com/x08vt/skebederepo/releases/download/lel/FortniteHF.ipa",
+      "iconURL": "https://x08vt.github.io/skebederepo/img/Fortnite.png",
+      "localizedDescription": "Explore large, destructible environments where no two games are ever the same. Team up with friends by sprinting, climbing and smashing your way to earn your Victory Royale, whether you choose to build up in Fortnite Battle Royale or go no-builds in Fortnite Zero Build. Discover even more ways to play across thousands of creator-made game genres: adventure, roleplay, survival and more. Or, band together with up to three friends to fend off hordes of monsters in Save the World.",
+      "name": "Fortnite+CAHighFPS",
+      "screenshotURLs": [
+        "https://x08vt.github.io/skebederepo/img/screenshots/Fortnite/ss1.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/Fortnite/ss2.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/Fortnite/ss3.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/Fortnite/ss4.png"
+      ],
+      "size": 266338304,
+      "subtitle": "slvwixx repo",
+      "tintColor": "6cd9f8",
+      "version": "31.30.1",
+      "versionDate": "2024-10-04T14:00:00-07:00",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "org.brandonplank.flappybird",
+      "developerName": "Brandon Plank",
+      "downloadURL": "https://github.com/crypticplank/flappybird/releases/download/4.3/org.brandonplank.flappybird.ipa",
+      "iconURL": "https://i.imgur.com/tIUJeSs.png",
+      "localizedDescription": "This Flappy Bird is a revival of the original Flappy Bird by Dong Nguyen. There are a many new features to enhance gameplay as well!\n\n• Tap to flap\n• Avoid the hitting the pipes\n• Flap for infinity!",
+      "name": "Flappy Bird",
+      "screenshotURLs": [
+        "https://i.imgur.com/nIq1VVv_d.webp?maxwidth=760&fidelity=grand",
+        "https://i.imgur.com/TZBdg7M_d.webp?maxwidth=760&fidelity=grand",
+        "https://i.imgur.com/41u9JUh_d.webp?maxwidth=760&fidelity=grand"
+      ],
+      "size": 2099365,
+      "subtitle": "slvwixx repo",
+      "tintColor": "49cc48",
+      "version": "4.3",
+      "versionDate": "2022-06-14T20:54:11Z",
+      "versionDescription": ""
     }
   ],
-  "userInfo": {}
+  "identifier": "com.slv.wixx",
+  "name": "SᒪᐯᙎI᙭᙭ ᖇᙓᑭO",
+  "news": [],
+  "sourceIconURL": "https://x08vt.github.io/skebederepo/img/sourceICON/sourceICON.png",
+  "sourceURL": "https://x08vt.github.io/skebederepo/json/library.json",
+  "userinfo": {},
+  "version": 2
 }
