@@ -14,7 +14,6 @@
         "https://x08vt.github.io/skebederepo/img/screenshots/LiveContainer/ss2.PNG",
         "https://x08vt.github.io/skebederepo/img/screenshots/LiveContainer/ss3.PNG"
       ],
-      "versions": [],
       "size": 194560,
       "subtitle": "slvwixx repo--THIS APP ONLY TO BE USED ON ALTSTORE OR SIDESTORE",
       "tintColor": "007bff",
@@ -39,8 +38,8 @@
       "size": 79691776,
       "subtitle": "slvwixx repo",
       "tintColor": "18843c",
-      "version": "5.4",
-      "versionDate": "2024-10-01T14:00:00-07:00",
+      "version": "5.5",
+      "versionDate": "2024-10-09T14:00:00-07:00",
       "versionDescription": ""
     },
     {
@@ -174,7 +173,6 @@
   "news": [],
   "sourceIconURL": "https://x08vt.github.io/skebederepo/img/sourceICON/sourceICON.png",
   "sourceURL": "https://x08vt.github.io/skebederepo/json/library.json",
-  "sourceHeaderURL": "https://x08vt.github.io/skebederepo/img/sourceHEADER/sourceHEADER"
   "userinfo": {},
   "version": 2
 }
