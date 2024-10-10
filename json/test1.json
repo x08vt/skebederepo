@@ -22,15 +22,7 @@
                 "https://x08vt.github.io/skebederepo/img/screenshots/LiveContainer/ss2.PNG",
                 "https://x08vt.github.io/skebederepo/img/screenshots/LiveContainer/ss3.PNG"
             ],
-            "versions": [],
-            "appPermissions": {
-                "entitlements": [],
-                "privacy": {
-                    "NSPhotoLibraryUsageDescription": "App saves photos to your Photo Library.",
-                    "NSCameraUsageDescription": "App uses camera to take photos.",
-                    "NSMicrophoneUsageDescription": "App uses microphone to record video."
-                }
-            }
+            "versions": []
         },
         {
             "name": "Another Example App",
@@ -42,7 +34,6 @@
             "tintColor": "#3660A2",
             "screenshots": [],
             "versions": []
-            }
         }
     ],
     "news": []
