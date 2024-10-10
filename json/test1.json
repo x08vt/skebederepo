@@ -15,6 +15,7 @@
             "subtitle": "slvwixx",
             "localizedDescription": "Run iOS app without actually installing it!\n\nAllows you to install unlimited apps (10 apps limit of free developer account do not apply here!), have multiple versions of an app installed and multiple data containers.\n\nWhen JIT is available, codesign is entirely bypassed, no need to sign your apps before installing. Otherwise, app will be signed with the same certificate used by LiveContainer.",
             "iconURL": "https://x08vt.github.io/skebederepo/img/LiveContainer",
+            "headerURL": "https://x08vt.github.io/skebederepo/img/sourceHEADER/sourceHEADER",
             "tintColor": "#5CA399",
             "screenshots": [
                 "https://x08vt.github.io/skebederepo/img/screenshots/LiveContainer/ss1.PNG",
