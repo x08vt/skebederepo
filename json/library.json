@@ -3,6 +3,26 @@
   "apps": [
     {
       "beta": false,
+      "bundleIdentifier": "com.kdt.livecontainer",
+      "developerName": "khanhduytran0",
+      "downloadURL": "https://github.com/x08vt/skebederepo/releases/download/lel/LiveContainer.ipa",
+      "iconURL": "https://x08vt.github.io/skebederepo/img/LiveContainer",
+      "localizedDescription": "Run iOS app without actually installing it!\n\nAllows you to install unlimited apps (10 apps limit of free developer account do not apply here!), have multiple versions of an app installed and multiple data containers.\n\nWhen JIT is available, codesign is entirely bypassed, no need to sign your apps before installing. Otherwise, app will be signed with the same certificate used by LiveContainer.",
+      "name": "LiveContainer",
+      "screenshotURLs": [
+        "https://x08vt.github.io/skebederepo/img/screenshots/LiveContainer/ss1.PNG",
+        "https://x08vt.github.io/skebederepo/img/screenshots/LiveContainer/ss2.PNG",
+        "https://x08vt.github.io/skebederepo/img/screenshots/LiveContainer/ss3.PNG"
+      ],
+      "size": 194560,
+      "subtitle": "slvwixx repo--THIS APP ONLY TO BE USED ON ALTSTORE OR SIDESTORE",
+      "tintColor": "007bff",
+      "version": "2.1.2",
+      "versionDate": "2024-08-15T14:00:00-07:00",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
       "bundleIdentifier": "com.spotify.client",
       "developerName": "whoeevee",
       "downloadURL": "https://github.com/x08vt/skebederepo/releases/download/lel/EeveeSpotify.ipa",
@@ -108,7 +128,7 @@
     },
     {
       "beta": false,
-      "bundleIdentifier": "com.epicgames.FortniteGame",
+      "bundleIdentifier": "com.epicgames.CAFortniteGame",
       "developerName": "Epic Games",
       "downloadURL": "https://github.com/x08vt/skebederepo/releases/download/lel/FortniteHF.ipa",
       "iconURL": "https://x08vt.github.io/skebederepo/img/Fortnite.png",
@@ -148,11 +168,11 @@
       "versionDescription": ""
     }
   ],
-  "identifier": "com.sidestoreapps.community",
+  "identifier": "com.slv.wixx",
   "name": "SᒪᐯᙎI᙭᙭ ᖇᙓᑭO",
   "news": [],
-  "sourceIconURL": "https://github.com/SideStore/CommunityStore/raw/main/assets/CF187B94-322C-409E-B475-44218E6CBDF7.jpeg",
-  "sourceURL": "https://community-apps.sidestore.io/sidecommunity.json",
+  "sourceIconURL": "https://x08vt.github.io/skebederepo/img/sourceICON/sourceICON.png",
+  "sourceURL": "https://x08vt.github.io/skebederepo/json/library.json",
   "userinfo": {},
   "version": 2
 }
