@@ -17,44 +17,13 @@
             "iconURL": "https://x08vt.github.io/skebederepo/img/LiveContainer",
             "tintColor": "#5CA399",
             "screenshots": [
-                {
-                    "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/LiveContainer/ss1.PNG",
-                    "width": 1170,
-                    "height": 2532
-                },
-                {
-                  "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/LiveContainer/ss2.PNG",
-                    "width": 1170,
-                    "height": 2532
-                },
-                {
-                  "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/LiveContainer/ss3.PNG",
-                    "width": 1170,
-                    "height": 2532
-                }
+                "https://x08vt.github.io/skebederepo/img/screenshots/LiveContainer/ss1.PNG",
+                "https://x08vt.github.io/skebederepo/img/screenshots/LiveContainer/ss2.PNG",
+                "https://x08vt.github.io/skebederepo/img/screenshots/LiveContainer/ss3.PNG"
             ],
-            "versions": [
-                {
-                    "version": "1.1",
-                    "date": "2022-05-01T09:00:00-08:00",
-                    "size": 20000000,
-                    "downloadURL": "https://example.com/myapp_v1.1.ipa",
-                    "localizedDescription": "New features and bug fixes.",
-                    "minOSVersion": "12.0"
-                },
-                {
-                    "version": "1.0",
-                    "date": "2022-03-16T07:00:00-08:00",
-                    "size": 10000000,
-                    "downloadURL": "https://example.com/myapp_v1.0.ipa",
-                    "localizedDescription": "Initial release."
-                }
-            ],
+            "versions": [],
             "appPermissions": {
-                "entitlements": [
-                    "com.apple.security.application-groups",
-                    "com.apple.developer.siri"
-                ],
+                "entitlements": [],
                 "privacy": {
                     "NSPhotoLibraryUsageDescription": "App saves photos to your Photo Library.",
                     "NSCameraUsageDescription": "App uses camera to take photos.",
