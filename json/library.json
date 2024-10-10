@@ -190,7 +190,7 @@
     },
     {
       "beta": false,
-      "bundleIdentifier": ".com.leemin.nugget",
+      "bundleIdentifier": "com.leemin.nugget",
       "developerName": "LeminLimez",
       "downloadURL": "https://github.com/x08vt/skebederepo/releases/download/lel/Nugget.ipa",
       "iconURL": "https://x08vt.github.io/skebederepo/img/Nugget.png",
