@@ -166,6 +166,46 @@
       "version": "4.3",
       "versionDate": "2022-06-14T20:54:11Z",
       "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "ru.nonamedude.iTorrent",
+      "developerName": "XITRIX",
+      "downloadURL": "https://github.com/x08vt/skebederepo/releases/download/lel/iTorrent.ipa",
+      "iconURL": "https://i.imgur.com/C3KwMP5.png",
+      "localizedDescription": "iTorrent is an ordinary torrent client for iOS with Files app support.\n\nWhat can this app do:\n\n• Download in the background\n• Sequential download (use VLC to watch films while loading)\n• Add torrent files from Share menu (Safari and other apps)\n• Add magnet links directly from Safari\n• Store files in Files app (iOS 11+)\n• File sharing directly from app\n• Download torrent by link\n• Download torrent by magnet\n• Send notification on torrent downloaded\n• FTP Server (unstable)\n• Select files to download or not\n• Change UI to dark theme\n\nNow supporting these localizations:\n• English\n• Russian\n• Turkish",
+      "name": "iTorrent",
+      "screenshotURLs": [
+        "https://i.imgur.com/0o7qou3.png",
+        "https://i.imgur.com/sO510zC.png",
+        "https://i.imgur.com/MQPWxYz.png",
+        "https://i.imgur.com/xTAo5uE.png"
+      ],
+      "size": 21218913,
+      "subtitle": "slvwixx repo",
+      "tintColor": "e32b3c",
+      "version": "2.0.11-3",
+      "versionDate": "2024-10-05",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": ".com.leemin.nugget",
+      "developerName": "LeminLimez",
+      "downloadURL": "https://github.com/x08vt/skebederepo/releases/download/lel/Nugget.ipa",
+      "iconURL": "https://x08vt.github.io/skebederepo/img/Nugget.png",
+      "localizedDescription": "Unlock your device's full potential! Should work on all versions iOS 16.0 - 18.1 beta 4.\n\nSparserestore was patched in iOS 18.1 beta 5. Please do not make issues about this, it will not be fixed.",
+      "name": "Nugget",
+      "screenshotURLs": [
+        "https://x08vt.github.io/skebederepo/img/screenshots/Nugget/ss1.PNG",
+        "https://x08vt.github.io/skebederepo/img/screenshots/Nugget/ss2.PNG"
+      ],
+      "size": 7759462,
+      "subtitle": "slvwixx repo",
+      "tintColor": "e32b3c",
+      "version": "1.0.1",
+      "versionDate": "2024-09-22",
+      "versionDescription": ""
     }
   ],
   "identifier": "com.slv.wixx",
