@@ -14,6 +14,16 @@
         "https://x08vt.github.io/skebederepo/img/screenshots/LiveContainer/ss2.PNG",
         "https://x08vt.github.io/skebederepo/img/screenshots/LiveContainer/ss3.PNG"
       ],
+      "versions": [],
+      "appPermissions": {
+                "entitlements": [],
+                "privacy": {
+                  "NSLocalNetworkUsageDescription": "LiveContainer does not directly require this permission, but any apps you may install will.",
+                  "NSPhotoLibraryUsageDescription": "LiveContainer does not directly require this permission, but any apps you may install will.",
+                  "NSCameraUsageDescription": "LiveContainer does not directly require this permission, but any apps you may install will.",
+                  "NSMicrophoneUsageDescription": "LiveContainer does not directly require this permission, but any apps you may install will."
+                }
+            },
       "size": 194560,
       "subtitle": "slvwixx repo--THIS APP ONLY TO BE USED ON ALTSTORE OR SIDESTORE",
       "tintColor": "007bff",
