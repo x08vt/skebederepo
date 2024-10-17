@@ -208,6 +208,33 @@
       "version": "1.0.1",
       "versionDate": "2024-09-22",
       "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "au.com.savageinteractive.procreate",
+      "developerName": "Savage Interactive Pty Ltd",
+      "downloadURL": "https://github.com/x08vt/skebederepo/releases/download/lel/Procreate.ipa",
+      "iconURL": "https://x08vt.github.io/skebederepo/img/Procreate.png",
+      "localizedDescription": "",
+      "name": "Procreate",
+      "screenshotURLs": [
+        "https://x08vt.github.io/skebederepo/img/screenshots/Procreate/ss1.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/Procreate/ss2.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/Procreate/ss3.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/Procreate/ss4.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/Procreate/ss5.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/Procreate/ss6.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/Procreate/ss7.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/Procreate/ss8.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/Procreate/ss9.png",
+        https://x08vt.github.io/skebederepo/img/screenshots/Procreate/ss10.png"
+      ],
+      "size": 484442112,
+      "subtitle": "slvwixx repo",
+      "tintColor": "242424",
+      "version": "5.3.6",
+      "versionDate": "2024-09-18",
+      "versionDescription": ""
     }
   ],
   "identifier": "com.slv.wixx",
