@@ -39,29 +39,8 @@
       "size": 79691776,
       "subtitle": "slvwixx repo",
       "tintColor": "18843c",
-      "version": "5.5",
-      "versionDate": "2024-10-09T14:00:00-07:00",
-      "versionDescription": ""
-    },
-    {
-      "beta": false,
-      "bundleIdentifier": "com.mrrobotmouse.gamevpn",
-      "developerName": "mrrobotmouse",
-      "downloadURL": "https://github.com/x08vt/skebederepo/releases/download/lel/GamingVPN.ipa",
-      "iconURL": "https://x08vt.github.io/skebederepo/img/GamingVPN.png",
-      "localizedDescription": "Injected with Premium",
-      "name": "Gaming VPN",
-      "screenshotURLs": [
-        "https://i.imgur.com/LCUAEBS.png",
-        "https://i.imgur.com/wQixSI9.png",
-        "https://i.imgur.com/sEITwEG.png",
-        "https://i.imgur.com/JFTjhF2.png"
-      ],
-      "size": 46203989,
-      "subtitle": "slvwixx repo",
-      "tintColor": "53b5d2",
-      "version": "2.1.4",
-      "versionDate": "2020-03-24T14:00:00-07:00",
+      "version": "8.9.82 (5.5)",
+      "versionDate": "2024-10-10T14:00:00-07:00",
       "versionDescription": ""
     },
     {
@@ -88,11 +67,11 @@
     {
       "beta": false,
       "bundleIdentifier": "p3.xyz.yyyue.esign",
-      "developerName": "E-Sign (yyy)",
+      "developerName": "yyy",
       "downloadURL": "https://github.com/x08vt/skebederepo/releases/download/lel/ESign.ipa",
       "iconURL": "https://x08vt.github.io/skebederepo/img/ESign.png",
       "localizedDescription": "**THIS IS THE NON-TELEMETRY VERSION** \nSign application for iOS is a software tool that enables users to sign documents electronically using their Apple devices, such as iPhones and iPads.\n\nTypically, these applications allow users to:\n1. Upload Documents: Import PDFs or other document types from various sources, including email, cloud storage, or directly from the device.\n2. Sign Documents: Utilize touch or stylus input to create a digital signature, which can be saved for future use.\n3. Form Filling: Fill out forms and add text, checkboxes, and other annotations to documents.\n4. Secure Signing: Ensure document integrity through encryption and authentication methods, often including options for secure authentication.\n5. Tracking and Notifications: Provide functionalities to track document status, send reminders, and notify parties when documents are signed.\n6. Integration: Many eSign apps integrate with other software solutions like document management systems, email clients, and productivity tools.",
-      "name": "E-Sign",
+      "name": "ESign",
       "screenshotURLs": [
         "https://x08vt.github.io/skebederepo/img/screenshots/ESign/ss1.png",
         "https://x08vt.github.io/skebederepo/img/screenshots/ESign/ss2.png",
@@ -130,7 +109,7 @@
     {
       "beta": false,
       "bundleIdentifier": "com.epicgames.CAFortniteGame",
-      "developerName": "Epic Games",
+      "developerName": "vedma1337",
       "downloadURL": "https://github.com/x08vt/skebederepo/releases/download/lel/FortniteHF.ipa",
       "iconURL": "https://x08vt.github.io/skebederepo/img/Fortnite.png",
       "localizedDescription": "Explore large, destructible environments where no two games are ever the same. Team up with friends by sprinting, climbing and smashing your way to earn your Victory Royale, whether you choose to build up in Fortnite Battle Royale or go no-builds in Fortnite Zero Build. Discover even more ways to play across thousands of creator-made game genres: adventure, roleplay, survival and more. Or, band together with up to three friends to fend off hordes of monsters in Save the World.",
@@ -192,7 +171,7 @@
     {
       "beta": false,
       "bundleIdentifier": "com.leemin.nugget",
-      "developerName": "LeminLimez",
+      "developerName": "leminlimez",
       "downloadURL": "https://github.com/x08vt/skebederepo/releases/download/lel/Nugget.ipa",
       "iconURL": "https://x08vt.github.io/skebederepo/img/Nugget.png",
       "localizedDescription": "**THIS APP ONLY TO BE USED IN ALTSTORE OR SIDESTORE** \n\nUnlock your device's full potential! Should work on all versions iOS 16.0 - 18.1 beta 4.\n\nSparserestore was patched in iOS 18.1 beta 5. Please do not make issues about this, it will not be fixed.",
