@@ -246,6 +246,11 @@
       "versionDescription": ""
     }
   ],
+  "featuredApps": [
+    "com.epicgames.FortniteGame",
+    "au.com.savageinteractive.procreate",
+    "com.kdt.livecontainer"
+  ],
   "identifier": "com.slv.nzx",
   "name": "𝚗𝚣𝚡 repo",
   "subtitle": "welcome to my skidubidi sigma repo",
