@@ -25,6 +25,26 @@
     },
     {
       "beta": false,
+      "bundleIdentifier": "com.kairos.duet",
+      "developerName": "IPA Library",
+      "downloadURL": "https://github.com/x08vt/skebederepo/releases/download/lel/DuetDisplay++.ipa",
+      "iconURL": "https://x08vt.github.io/skebederepo/img/DuetDisplay.png",
+      "localizedDescription": "",
+      "name": "Duet Display",
+      "category": "utilities",
+      "screenshotURLs": [
+        "https://x08vt.github.io/skebederepo/img/screenshots/DuetDisplay/ss1.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/DuetDisplay/ss2.png"
+      ],
+      "size": 42991616,
+      "subtitle": "slvwixx repo",
+      "tintColor": "ffffff",
+      "version": "2.24.0",
+      "versionDate": "2024-10-13T14:00:00-07:00",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
       "bundleIdentifier": "com.spotify.client",
       "developerName": "whoeevee",
       "downloadURL": "https://github.com/x08vt/skebederepo/releases/download/lel/EeveeSpotify.ipa",
