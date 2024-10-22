@@ -28,7 +28,7 @@
       "bundleIdentifier": "com.spotify.client",
       "developerName": "whoeevee",
       "downloadURL": "https://github.com/x08vt/skebederepo/releases/download/lel/EeveeSpotify.ipa",
-      "iconURL": "https://x08vt.github.io/skebederepo/img/Spotify.PNG",
+      "iconURL": "https://x08vt.github.io/skebederepo/img/Spotify.png",
       "localizedDescription": "This tweak makes Spotify think you have a Premium subscription, granting free listening, just like Spotilife, and provides some additional features like custom lyrics.\n\nThe following features will not work, EVER:\n- Very High audio quality\n- Native playlist downloading (you can download podcast episodes though)\n- Jam (hosting a Spotify Jam and joining it remotely requires Premium; only joining in-person works)",
       "name": "EeveeSpotify",
       "category": "entertainment",
