@@ -1,6 +1,23 @@
 {
   "apiVersion": "v2",
   "apps": [
+        {
+      "beta": false,
+      "bundleIdentifier": "com.repo.begin",
+      "developerName": " ",
+      "downloadURL": "sigma.idp",
+      "iconURL": "https://x08vt.github.io/skebederepo/img/Misc/RepoBegin.PNG",
+      "localizedDescription": "",
+      "name": "Repository Begin",
+      "category": "other",
+      "screenshotURLs": [],
+      "size": 0,
+      "subtitle": "𝚗𝚣𝚡 repo",
+      "tintColor": "ffffff",
+      "version": "0",
+      "versionDate": "1000-10-10T14:00:00-07:00",
+      "versionDescription": ""
+    },
     {
       "beta": false,
       "bundleIdentifier": "com.kdt.livecontainer",
@@ -21,7 +38,7 @@
       "tintColor": "007bff",
       "version": "3.0.0",
       "versionDate": "2024-10-10T14:00:00-07:00",
-      "versionDescription": "Features:\n- Hack subscription\n\nDuet turns your iPad or iPhone into the most advanced extra display for your Mac & PC. Developed by a team of ex-Apple engineers, Duet offers unparalleled performance and display quality - all with zero lag."
+      "versionDescription": ""
     },
     {
       "beta": false,
@@ -29,7 +46,7 @@
       "developerName": "IPA Library",
       "downloadURL": "https://github.com/x08vt/skebederepo/releases/download/lel/DuetDisplay++.ipa",
       "iconURL": "https://x08vt.github.io/skebederepo/img/DuetDisplay.png",
-      "localizedDescription": "",
+      "localizedDescription": "Features:\n- Hack subscription\n\nDuet turns your iPad or iPhone into the most advanced extra display for your Mac & PC. Developed by a team of ex-Apple engineers, Duet offers unparalleled performance and display quality - all with zero lag.",
       "name": "Duet Display",
       "category": "utilities",
       "screenshotURLs": [
@@ -245,6 +262,23 @@
       "versionDate": "2024-09-18",
       "versionDescription": ""
     }
+    {
+      "beta": false,
+      "bundleIdentifier": "com.repo.end",
+      "developerName": " ",
+      "downloadURL": "sigma.idp",
+      "iconURL": "https://x08vt.github.io/skebederepo/img/Misc/RepoEnd.PNG",
+      "localizedDescription": "",
+      "name": "Repository End",
+      "category": "other",
+      "screenshotURLs": [],
+      "size": 0,
+      "subtitle": "𝚗𝚣𝚡 repo",
+      "tintColor": "ffffff",
+      "version": "0",
+      "versionDate": "1000-10-10T14:00:00-07:00",
+      "versionDescription": ""
+    },
   ],
   "featuredApps": [
     "com.epicgames.FortniteGame",
