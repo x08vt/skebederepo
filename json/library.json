@@ -162,7 +162,7 @@
       "permissions": [
         {
           "type": "music",
-          "usageDescription": "Spotify requires this permission in order to stream content to other devices that support Spotify Playback."
+          "usageDescription": "Spotify requires this permission in order to listen to music files from Apple Music locally."
         }
       ],
       "appPermissions": {
@@ -173,7 +173,7 @@
           },
           {
             "name": "AppleMusic",
-            "usageDescription": "Spotify requires this permission in order to stream content to other devices that support Spotify Playback."
+            "usageDescription": "Spotify requires this permission in order to listen to music files from Apple Music locally."
           }
         ]
       },
