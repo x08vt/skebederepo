@@ -1,5 +1,4 @@
 {
-  "connectOrganizationId": "093a71fd-b4e5-48c7-bb9f-170a7d007f77",
   "apiVersion": "v2",
   "apps": [
         {
@@ -456,6 +455,7 @@
   ],
   "identifier": "com.slv.nzx",
   "name": "𝚗𝚣𝚡 𝚛𝚎𝚙𝚘",
+  "connectOrganizationId: 093a71fd-b4e5-48c7-bb9f-170a7d007f77",
   "subtitle": "welcome to my application repository - xplwixz",
   "website": "https://bit.ly/thesigmasite",
   "news": [],
