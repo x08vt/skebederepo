@@ -76,6 +76,36 @@
         "https://x08vt.github.io/skebederepo/img/screenshots/LiveContainer/SS2.png",
         "https://x08vt.github.io/skebederepo/img/screenshots/LiveContainer/SS3.png"
       ],
+      "screenshots": {
+        "iphone": [
+          "https://x08vt.github.io/skebederepo/img/screenshots/LiveContainer/SS1.png",
+          "https://x08vt.github.io/skebederepo/img/screenshots/LiveContainer/SS2.png",
+          "https://x08vt.github.io/skebederepo/img/screenshots/LiveContainer/SS3.png",
+        ],
+        "ipad": [
+          {
+            "imageURL": "https://user-images.githubusercontent.com/705880/277048798-173ff326-9e75-4945-90ef-c3c5390c5fa0.png",
+            "width": 2545,
+            "height": 1908
+          },
+          {
+            "imageURL": "https://user-images.githubusercontent.com/705880/277048830-2ea042ff-6534-4663-96a6-8403065a9247.PNG",
+            "width": 2746,
+            "height": 1908
+          },
+          {
+            "imageURL": "https://user-images.githubusercontent.com/705880/277048870-e206ffb8-8889-42f3-86f7-612e78fe3291.PNG",
+            "width": 1908,
+            "height": 2746
+          },
+          {
+            "imageURL": "https://user-images.githubusercontent.com/705880/277048876-d522a486-7765-4099-a9a0-5229b0166061.PNG",
+            "width": 1908,
+            "height": 2746
+          }
+        ]
+      }
+    },
       "size": 194560,
       "subtitle": "𝚗𝚣𝚡 𝚛𝚎𝚙𝚘",
       "tintColor": "007bff",
