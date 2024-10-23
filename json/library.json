@@ -148,6 +148,7 @@
       "version": "2.24.0",
       "versionDate": "2024-10-13T14:00:00-07:00",
       "versionDescription": ""
+      
     },
     {
       "beta": false,
@@ -169,7 +170,43 @@
       "tintColor": "18843c",
       "version": "8.9.82 (5.5)",
       "versionDate": "2024-10-10T14:00:00-07:00",
-      "versionDescription": ""
+      "versionDescription": "",
+      "screenshots": {
+        "iphone": [
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/Spotify/SS1-iphone.png",
+            "width": 1370,
+            "height": 2712,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/Spotify/SS2-iphone.png",
+            "width": 1370,
+            "height": 2712,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/Spotify/SS3-iphone.png",
+            "width": 1370,
+            "height": 2712,
+          }
+        ],
+        "ipad": [
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/Spotify/SS1-ipad.png",
+            "width": 2640,
+            "height": 1920,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/Spotify/SS2-ipad.png",
+            "width": 2640,
+            "height": 1920,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/Spotify/SS3-ipad.png",
+            "width": 2640,
+            "height": 1920,
+          }
+        ]
+      }
     },
     {
       "beta": false,
