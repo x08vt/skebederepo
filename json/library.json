@@ -63,6 +63,14 @@
           {
             "name": "PhotoLibrary",
             "usageDescription": "While LiveContainer doesn't directly ask for this permission, any apps you install may require this."
+          },
+          {
+            "name": "Bluetooth",
+            "usageDescription": "While LiveContainer doesn't directly ask for this permission, any apps you install may require this."
+          },
+          {
+            "name": "Location",
+            "usageDescription": "While LiveContainer doesn't directly ask for this permission, any apps you install may require this."
           }
         ]
       },
