@@ -71,7 +71,7 @@
         ]
       },
       "screenshotURLs": [
-        "https://x08vt.github.io/skebederepo/img/screenshots/AltClientONLY.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/LiveContainer/AltClientONLY.png",
         "https://x08vt.github.io/skebederepo/img/screenshots/LiveContainer/SS1.png",
         "https://x08vt.github.io/skebederepo/img/screenshots/LiveContainer/SS2.png",
         "https://x08vt.github.io/skebederepo/img/screenshots/LiveContainer/SS3.png"
@@ -286,6 +286,31 @@
       "localizedDescription": "Loved by creative professionals and aspiring artists alike, Procreate is the leading creative application made for iPad.\n\n\nProcreate has everything you need to create expressive sketches, rich paintings, gorgeous illustrations, and beautiful animations. Offering 100s of handmade brushes, a suite of industry-leading artistic tools, an advanced layer system, and the powerful Valkyrie graphics engine.\n\n\nIt’s a complete art studio you can take anywhere.\n\n\nHighlights:\n\n• High resolution canvases — up to 16k by 8k on compatible iPad Pros\n\n• Beautifully intuitive interface made for iPad and Apple Pencil\n\n• Revolutionary QuickShape feature for perfect shapes\n\n• Smooth and responsive smudge sampling\n\n• 3D Painting with Lighting Studio, exportable as models, images, or animations\n\n• Powered by Valkyrie, the lightning-fast 64-bit painting engine\n\n• Speed up your workflow with keyboard shortcuts\n\n• Create art in stunning 64-bit color\n\n• Continuous auto-save — never lose work again\n\n\nBreakthrough brushes:\n\n• Packed with hundreds of beautifully crafted brushes\n\n• Brush sets to organize your painting, sketching, and drawing brushes\n\n• Over 100 customizable settings for every brush\n\n• Add Metallic and Roughness for painting in 3D\n\n• Brush Studio — design custom Procreate brushes\n\n• Import and export custom Procreate brushes\n\n• Import Adobe® Photoshop® brushes, and run them faster than Photoshop®\n\n\nFull-featured layering system:\n\n• Layer your art for precise control over details and composition\n\n• Create Layer Masks and Clipping Masks for non-destructive editing\n\n• Stay organized by combining layers into Groups\n\n• Select multiple layers to move or Transform objects simultaneously\n\n• Access over 25 layer blend modes for industry-grade compositing\n\n\nColor without compromise:\n\n• Fill your line work with ColorDrop and SwatchDrop\n\n• Disc, Classic, Harmony, Value, and Palette color panels\n\n• Import color profiles for color matching\n\n• Assign Color Dynamics to any brush\n\n\nPrecision design tools:\n\n• Add vector text to your illustrations\n\n• Easily import all your favorite fonts\n\n• Crop and resize your canvas for perfect composition\n\n• Perspective, Isometric, 2D, and Symmetry visual guides\n\n• Drawing Assist perfects your strokes in real time\n\n• StreamLine and stabilization smooths strokes for beautiful calligraphy and expert inking\n\n• Use Scribble to name layers, change settings, and create text\n\n\nAccessibility features:\n\n• Advanced stroke stabilization\n\n• Dynamic Type, VoiceOver, and Feedback Sounds\n\n• Assignable single-touch gestures\n\n• Color naming\n\n\nAnimation and Page Assist\n\n• Easy frame-by-frame animation with customizable onion skinning\n\n• Create storyboards, GIFs, animatics, and simple animations\n\n• Sketch page-by-page concepts or begin a comic with Page Assist\n\n• Import, edit, and share PDFs\n\n\nDramatic finishing effects:\n\n• Brush in image adjustments and effects with Apple Pencil\n\n• Glitch, Chromatic Aberration, Bloom, Noise, and Halftone add new dimensions to your work\n\n• Gaussian, Motion, and Perspective Blur filters create depth and movement\n\n• Powerful image adjustments including Color Balance, Curves, HSB, and Gradient Map\n\n• Bring your art to life with the fun, intuitive, and creative Warp, Symmetry, and Liquify Dynamics\n\n\nTime-lapse replay\n\n• Relive your creative journey with Procreate’s Time-lapse Replay\n\n• Export your Time-lapse recording in 4K for high-quality video production\n\n• Share a shorter 30-second Time-lapse on your socials\n\n\nImport assets and share your creations:\n\n• Import or export your art as Adobe® Photoshop® PSD files\n\n• Import Adobe® ASE and ACO Color Palettes\n\n• Import image files such as JPG, PNG, and TIFF\n\n• Export your working files in layered .procreate or PSD file formats\n\n• Share your art as TIFF, transparent PNG, multi-page PDF, web-ready JPEG, OBJ, USDZ, and animated GIFs, PNGs, and MP4s",
       "name": "Procreate",
       "category": "lifestyle",
+      "permissions": [
+        {
+          "type": "photos",
+          "usageDescription": "Procreate requires this permission to save your artworks to Photos."
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          {
+            "name": "com.apple.developer.kernel.extended-virtual-addressing"
+          },
+          {
+            "name": "com.apple.developer.kernel.increased-memory-limit"
+          },
+          {
+            "name": "com.apple.security.application-groups"
+          }
+        ],
+        "privacy": [
+          {
+            "name": "PhotoLibrary",
+            "usageDescription": "Procreate requires this permission to save your artworks to Photos."
+          }
+        ]
+      },
       "screenshotURLs": [
         "https://x08vt.github.io/skebederepo/img/screenshots/Procreate/ss1.png",
         "https://x08vt.github.io/skebederepo/img/screenshots/Procreate/ss2.png",
