@@ -26,6 +26,12 @@
       "iconURL": "https://x08vt.github.io/skebederepo/img/LiveContainer.png",
       "localizedDescription": "**THIS APP ONLY TO BE USED IN ALTSTORE OR SIDESTORE** \n\nRun iOS app without actually installing it!\n\nAllows you to install unlimited apps (10 apps limit of free developer account do not apply here!), have multiple versions of an app installed and multiple data containers.\n\nWhen JIT is available, codesign is entirely bypassed, no need to sign your apps before installing. Otherwise, app will be signed with the same certificate used by LiveContainer.",
       "name": "LiveContainer",
+      "size": 194560,
+      "subtitle": "𝚗𝚣𝚡 𝚛𝚎𝚙𝚘",
+      "tintColor": "007bff",
+      "version": "3.0.0",
+      "versionDate": "2024-10-10T14:00:00-07:00",
+      "versionDescription": "",
       "category": "utilities",
       "permissions": [
         {
@@ -116,13 +122,7 @@
             "height": 2746
           }
         ]
-      },
-      "size": 194560,
-      "subtitle": "𝚗𝚣𝚡 𝚛𝚎𝚙𝚘",
-      "tintColor": "007bff",
-      "version": "3.0.0",
-      "versionDate": "2024-10-10T14:00:00-07:00",
-      "versionDescription": ""
+      }
     },
     {
       "beta": false,
