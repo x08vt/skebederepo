@@ -166,7 +166,6 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [],
         "privacy": [
           {
             "NSAppleMusicUsageDescription": "Spotify requires this to access your Apple Music Library for local listening.",
