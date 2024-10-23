@@ -171,7 +171,7 @@
           {
             "NSAppleMusicUsageDescription": "Spotify requires this to access your Apple Music Library for local listening.",
             "NSBluetoothAlwaysUsageDescription": "Spotify requires this to control nearby bluetooth devices.",
-          }
+          },
           {
             "name": "LocalNetwork",
             "usageDescription": "Spotify uses this to stream content to other devices that support Spotify Playback."
