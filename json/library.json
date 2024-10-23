@@ -78,9 +78,21 @@
       ],
       "screenshots": {
         "iphone": [
-          "https://x08vt.github.io/skebederepo/img/screenshots/LiveContainer/SS1.png",
-          "https://x08vt.github.io/skebederepo/img/screenshots/LiveContainer/SS2.png",
-          "https://x08vt.github.io/skebederepo/img/screenshots/LiveContainer/SS3.png",
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/LiveContainer/SS1.png",
+            "width": 1370,
+            "height": 2712,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/LiveContainer/SS2.png",
+            "width": 1370,
+            "height": 2712,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/LiveContainer/SS3.png",
+            "width": 1370,
+            "height": 2712,
+          }
         ],
         "ipad": [
           {
