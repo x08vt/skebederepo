@@ -27,6 +27,45 @@
       "localizedDescription": "**THIS APP ONLY TO BE USED IN ALTSTORE OR SIDESTORE** \n\nRun iOS app without actually installing it!\n\nAllows you to install unlimited apps (10 apps limit of free developer account do not apply here!), have multiple versions of an app installed and multiple data containers.\n\nWhen JIT is available, codesign is entirely bypassed, no need to sign your apps before installing. Otherwise, app will be signed with the same certificate used by LiveContainer.",
       "name": "LiveContainer",
       "category": "utilities",
+      "permissions": [
+        {
+          "type": "microphone",
+          "usageDescription": "While LiveContainer doesn't directly ask for this permission, any apps you install may require this."
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          {
+            "name": "com.apple.developer.kernel.extended-virtual-addressing"
+          },
+          {
+            "name": "com.apple.developer.kernel.increased-memory-limit"
+          },
+          {
+            "name": "com.apple.security.application-groups"
+          },
+          {
+            "name": "get-task-allow"
+          },
+          {
+            "name": "keychain-access-groups"
+          },
+        ],
+        "privacy": [
+          {
+            "name": "Microphone",
+            "usageDescription": "While LiveContainer doesn't directly ask for this permission, any apps you install may require this."
+          },
+          {
+            "name": "LocalNetwork",
+            "usageDescription": "While LiveContainer doesn't directly ask for this permission, any apps you install may require this."
+          },
+          {
+            "name": "PhotoLibrary",
+            "usageDescription": "While LiveContainer doesn't directly ask for this permission, any apps you install may require this."
+          }
+        ]
+      },
       "screenshotURLs": [
         "https://x08vt.github.io/skebederepo/img/screenshots/AltClientONLY.png",
         "https://x08vt.github.io/skebederepo/img/screenshots/LiveContainer/SS1.png",
