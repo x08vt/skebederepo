@@ -159,6 +159,25 @@
       "localizedDescription": "This tweak makes Spotify think you have a Premium subscription, granting free listening, just like Spotilife, and provides some additional features like custom lyrics.\n\nThe following features will not work, EVER:\n- Very High audio quality\n- Native playlist downloading (you can download podcast episodes though)\n- Jam (hosting a Spotify Jam and joining it remotely requires Premium; only joining in-person works)",
       "name": "EeveeSpotify",
       "category": "entertainment",
+      "permissions": [
+        {
+          "type": "microphone",
+          "usageDescription": "While LiveContainer doesn't directly ask for this permission, any apps you install may require this."
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": [
+          {
+            "NSAppleMusicUsageDescription": "Spotify requires this to access your Apple Music Library for local listening.",
+            "NSBluetoothAlwaysUsageDescription": "Spotify requires this to control nearby bluetooth devices.",
+          }
+          {
+            "name": "LocalNetwork",
+            "usageDescription": "Spotify uses this to stream content to other devices that support Spotify Playback."
+          }
+        ]
+      },
       "screenshotURLs": [
         "https://x08vt.github.io/skebederepo/img/screenshots/Spotify/SS1-iphone.png",
         "https://x08vt.github.io/skebederepo/img/screenshots/Spotify/SS2-iphone.png",
