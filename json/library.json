@@ -386,28 +386,6 @@
     },
     {
       "beta": false,
-      "bundleIdentifier": "ru.nonamedude.iTorrent",
-      "developerName": "XITRIX",
-      "downloadURL": "https://github.com/x08vt/skebederepo/releases/download/lel/iTorrent.ipa",
-      "iconURL": "https://i.imgur.com/C3KwMP5.png",
-      "localizedDescription": "iTorrent is an ordinary torrent client for iOS with Files app support.\n\nWhat can this app do:\n\n• Download in the background\n• Sequential download (use VLC to watch films while loading)\n• Add torrent files from Share menu (Safari and other apps)\n• Add magnet links directly from Safari\n• Store files in Files app (iOS 11+)\n• File sharing directly from app\n• Download torrent by link\n• Download torrent by magnet\n• Send notification on torrent downloaded\n• FTP Server (unstable)\n• Select files to download or not\n• Change UI to dark theme\n\nNow supporting these localizations:\n• English\n• Russian\n• Turkish",
-      "name": "iTorrent",
-      "category": "utilities",
-      "screenshotURLs": [
-        "https://i.imgur.com/0o7qou3.png",
-        "https://i.imgur.com/sO510zC.png",
-        "https://i.imgur.com/MQPWxYz.png",
-        "https://i.imgur.com/xTAo5uE.png"
-      ],
-      "size": 21218913,
-      "subtitle": "𝚗𝚣𝚡 𝚛𝚎𝚙𝚘",
-      "tintColor": "e32b3c",
-      "version": "2.0.11-3",
-      "versionDate": "2024-10-05",
-      "versionDescription": ""
-    },
-    {
-      "beta": false,
       "bundleIdentifier": "com.leemin.nugget",
       "developerName": "leminlimez",
       "downloadURL": "https://github.com/x08vt/skebederepo/releases/download/lel/Nugget.ipa",
