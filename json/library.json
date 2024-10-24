@@ -55,11 +55,15 @@
           },
           {
             "name": "keychain-access-groups"
-          },
+          }
         ],
         "privacy": [
           {
             "name": "Microphone",
+            "usageDescription": "While LiveContainer doesn't directly ask for this permission, any apps you install may require this."
+          },
+          {
+            "name": "Camera",
             "usageDescription": "While LiveContainer doesn't directly ask for this permission, any apps you install may require this."
           },
           {
