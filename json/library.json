@@ -239,17 +239,63 @@
       "name": "Feather",
       "category": "utilities",
       "screenshotURLs": [
-        "https://github.com/khcrysalis/Feather/raw/v1.0.4/Images/Repos_L.png",
-        "https://github.com/khcrysalis/Feather/raw/v1.0.4/Images/Store_L.png",
-        "https://github.com/khcrysalis/Feather/raw/v1.0.4/Images/Library_L.png",
-        "https://github.com/khcrysalis/Feather/raw/v1.0.4/Images/Sign_L.png"
+        "https://x08vt.github.io/skebederepo/img/screenshots/Feather/SS1-iphone.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/Feather/SS2-iphone.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/Feather/SS3-iphone.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/Feather/SS4-iphone.png"
       ],
       "size": 10485760,
       "subtitle": "𝚗𝚣𝚡 𝚛𝚎𝚙𝚘",
       "tintColor": "7c87fa",
       "version": "1.0.5",
       "versionDate": "2024-10-04T14:00:00-07:00",
-      "versionDescription": ""
+      "versionDescription": "",
+      "screenshots": {
+        "iphone": [
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/Feather/SS1-iphone.png",
+            "width": 1370,
+            "height": 2712,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/Feather/SS2-iphone.png",
+            "width": 1370,
+            "height": 2712,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/Feather/SS3-iphone.png",
+            "width": 1370,
+            "height": 2712,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/Feather/SS4-iphone.png",
+            "width": 1370,
+            "height": 2712,
+          }
+        ],
+        "ipad": [
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/Feather/SS1-ipad.png",
+            "width": 1370,
+            "height": 2712,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/Feather/SS2-ipad.png",
+            "width": 2640,
+            "height": 1920,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/Feather/SS3-ipad.png",
+            "width": 2640,
+            "height": 1920,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/Feather/SS4-ipad.png",
+            "width": 2640,
+            "height": 1920,
+          }
+        ]
+      }
     },
     {
       "beta": false,
@@ -271,7 +317,7 @@
       "tintColor": "93dfd6",
       "version": "5.0.2",
       "versionDate": "2024-01-28T21:40:00+08:00",
-      "versionDescription": " "
+      "versionDescription": ""
     },
     {
       "beta": false,
