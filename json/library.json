@@ -373,7 +373,7 @@
       "appPermissions": {
         "entitlements": [
           {
-            "name": "application-identifier"
+            "name": "platform-application"
           },
           {
             "name": "com.app.developer.team-identifier"
@@ -384,13 +384,65 @@
           {
             "name": "get-task-allow"
           },
-        ],
-        "privacy": [
           {
-            "name": "PhotoLibrary",
-            "usageDescription": "Procreate requires this permission to save your artworks to Photos."
+            "name": "com.apple.security.iokit.user-client-class"
+          },
+          {
+            "name": "com.apple.security.exception.files.absolute-path.read-write"
+          },
+          {
+            "name": "com.apple.mobile.deleted.AllowFreeSpace"
+          },
+          {
+            "name": "com.apple.private.security.container-manager"
+          },
+          {
+            "name": "com.apple.private.security.no-container"
+          },
+          {
+            "name": "com.apple.private.security.no-sandbox"
+          },
+          {
+            "name": "com.apple.private.persona-mgmt"
+          },
+          {
+            "name": "com.apple.private.WebClips.read-write"
+          },
+          {
+            "name": "com.apple.locationd.simulation"
+          },
+          {
+            "name": "com.apple.SystemConfiguration.SCDynamicStore-write-access"
+          },
+          {
+            "name": "com.apple.private.security.system-application"
+          },
+          {
+            "name": "com.apple.private.coreservices.canmaplsdatabase"
+          },
+          {
+            "name": "com.apple.lsapplicationworkspace.rebuildappdatabases"
+          },
+          {
+            "name": "com.apple.private.MobileContainerManager.allowed"
+          },
+          {
+            "name": "com.apple.private.MobileInstallationHelperService.InstallDaemonOpsEnabled"
+          },
+          {
+            "name": "com.apple.private.MobileInstallationHelperService.allowed"
+          },
+          {
+            "name": "com.apple.private.uninstall.deletion"
+          },
+          {
+            "name": "com.apple.private.security.storage.MobileDocuments"
+          },
+          {
+            "name": "com.apple.managedconfiguration.profiled-access"
           }
-        ]
+        ],
+        "privacy": []
       },
       "screenshotURLs": [
         "https://x08vt.github.io/skebederepo/img/screenshots/AltClientONLY.png",
@@ -402,7 +454,43 @@
       "tintColor": "0f3ff8",
       "version": "2.0",
       "versionDate": "2024-10-17",
-      "versionDescription": ""
+      "versionDescription": "",
+      "screenshots": {
+        "iphone": [
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/Nugget/AltClientONLY.png",
+            "width": 1370,
+            "height": 2712,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/Nugget/SS1.png",
+            "width": 1370,
+            "height": 2712,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/Nugget/SS2.png",
+            "width": 1370,
+            "height": 2712,
+          }
+        ],
+        "ipad": [
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/Nugget/AltClientONLY.png",
+            "width": 1370,
+            "height": 2712,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/Nugget/SS1-ipad.png",
+            "width": 2640,
+            "height": 1920,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/Nugget/SS2-ipad.png",
+            "width": 2640,
+            "height": 1920,
+          }
+        ]
+      }
     },
     {
       "beta": false,
