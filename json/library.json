@@ -365,6 +365,29 @@
       "localizedDescription": "**THIS APP ONLY TO BE USED IN ALTSTORE OR SIDESTORE** \n\nUnlock your device's full potential! Should work on all versions iOS 16.0 - 18.1 beta 4.\n\nSparserestore was patched in iOS 18.1 beta 5. Please do not make issues about this, it will not be fixed.",
       "name": "Nugget",
       "category": "utilities",
+      "permissions": [],
+      "appPermissions": {
+        "entitlements": [
+          {
+            "name": "application-identifier"
+          },
+          {
+            "name": "com.app.developer.team-identifier"
+          },
+          {
+            "name": "com.apple.UIKit.status-bar-override-allow"
+          },
+          {
+            "name": "get-task-allow"
+          },
+        ],
+        "privacy": [
+          {
+            "name": "PhotoLibrary",
+            "usageDescription": "Procreate requires this permission to save your artworks to Photos."
+          }
+        ]
+      },
       "screenshotURLs": [
         "https://x08vt.github.io/skebederepo/img/screenshots/AltClientONLY.png",
         "https://x08vt.github.io/skebederepo/img/screenshots/Nugget/ss1.PNG",
@@ -395,13 +418,10 @@
       "appPermissions": {
         "entitlements": [
           {
-            "name": "com.apple.developer.kernel.extended-virtual-addressing"
+            "name": "application-identifier"
           },
           {
-            "name": "com.apple.developer.kernel.increased-memory-limit"
-          },
-          {
-            "name": "com.apple.security.application-groups"
+            "name": "com.app.developer.team-identifier"
           }
         ],
         "privacy": [
