@@ -1,0 +1,604 @@
+{
+  "apiVersion": "v2",
+  "apps": [
+        {
+      "beta": false,
+      "bundleIdentifier": "com.repo.begin",
+      "developerName": " ",
+      "downloadURL": "sigma.idp",
+      "iconURL": "https://x08vt.github.io/skebederepo/img/Misc/RepoBegin.PNG",
+      "localizedDescription": "",
+      "name": "Repository Begin",
+      "category": "other",
+      "screenshotURLs": [],
+      "size": 0,
+      "subtitle": "",
+      "tintColor": "d583de",
+      "version": "0",
+      "versionDate": "1000-10-10T14:00:00-07:00",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.kdt.livecontainer",
+      "developerName": "khanhduytran0",
+      "downloadURL": "https://github.com/x08vt/skebederepo/releases/download/lel/LiveContainer.ipa",
+      "iconURL": "https://x08vt.github.io/skebederepo/img/LiveContainer.png",
+      "localizedDescription": "**THIS APP ONLY TO BE USED IN ALTSTORE OR SIDESTORE** \n\nRun iOS app without actually installing it!\n\nAllows you to install unlimited apps (10 apps limit of free developer account do not apply here!), have multiple versions of an app installed and multiple data containers.\n\nWhen JIT is available, codesign is entirely bypassed, no need to sign your apps before installing. Otherwise, app will be signed with the same certificate used by LiveContainer.",
+      "name": "LiveContainer",
+      "size": 194560,
+      "subtitle": "𝚗𝚣𝚡 𝚛𝚎𝚙𝚘",
+      "tintColor": "007bff",
+      "version": "3.0.0",
+      "versionDate": "2024-10-10T14:00:00-07:00",
+      "versionDescription": "",
+      "category": "utilities",
+      "permissions": [
+        {
+          "type": "microphone",
+          "usageDescription": "While LiveContainer doesn't directly ask for this permission, any apps you install may require this."
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          {
+            "name": "com.apple.developer.kernel.extended-virtual-addressing"
+          },
+          {
+            "name": "com.apple.developer.kernel.increased-memory-limit"
+          },
+          {
+            "name": "com.apple.security.application-groups"
+          },
+          {
+            "name": "get-task-allow"
+          },
+          {
+            "name": "keychain-access-groups"
+          }
+        ],
+        "privacy": [
+          {
+            "name": "Microphone",
+            "usageDescription": "While LiveContainer doesn't directly ask for this permission, any apps you install may require this."
+          },
+          {
+            "name": "Camera",
+            "usageDescription": "While LiveContainer doesn't directly ask for this permission, any apps you install may require this."
+          },
+          {
+            "name": "LocalNetwork",
+            "usageDescription": "While LiveContainer doesn't directly ask for this permission, any apps you install may require this."
+          },
+          {
+            "name": "PhotoLibrary",
+            "usageDescription": "While LiveContainer doesn't directly ask for this permission, any apps you install may require this."
+          },
+          {
+            "name": "Location",
+            "usageDescription": "While LiveContainer doesn't directly ask for this permission, any apps you install may require this."
+          }
+        ]
+      },
+      "screenshotURLs": [
+        "https://x08vt.github.io/skebederepo/img/screenshots/LiveContainer/AltClientONLY.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/LiveContainer/SS1.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/LiveContainer/SS2.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/LiveContainer/SS3.png"
+      ],
+      "screenshots": {
+        "iphone": [
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/LiveContainer/AltClientONLY.png",
+            "width": 1370,
+            "height": 2712,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/LiveContainer/SS1.png",
+            "width": 1370,
+            "height": 2712,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/LiveContainer/SS2.png",
+            "width": 1370,
+            "height": 2712,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/LiveContainer/SS3.png",
+            "width": 1370,
+            "height": 2712,
+          }
+        ],
+        "ipad": [
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/LiveContainer/AltClientONLY.png",
+            "width": 1370,
+            "height": 2712,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/LiveContainer/SS1-ipad.png",
+            "width": 2640,
+            "height": 1920,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/LiveContainer/SS2-ipad.png",
+            "width": 2640,
+            "height": 1920,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/LiveContainer/SS3-ipad.png",
+            "width": 2640,
+            "height": 1920,
+          }
+        ]
+      }
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.kairos.duet",
+      "developerName": "IPA Library",
+      "downloadURL": "https://github.com/x08vt/skebederepo/releases/download/lel/DuetDisplay++.ipa",
+      "iconURL": "https://x08vt.github.io/skebederepo/img/DuetDisplay.png",
+      "localizedDescription": "Features:\n- Hack subscription\n\nDuet turns your iPad or iPhone into the most advanced extra display for your Mac & PC. Developed by a team of ex-Apple engineers, Duet offers unparalleled performance and display quality - all with zero lag.",
+      "name": "Duet Display",
+      "category": "utilities",
+      "screenshotURLs": [
+        "https://x08vt.github.io/skebederepo/img/screenshots/DuetDisplay/ss1.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/DuetDisplay/ss2.png"
+      ],
+      "size": 42991616,
+      "subtitle": "𝚗𝚣𝚡 𝚛𝚎𝚙𝚘",
+      "tintColor": "77a7e1",
+      "version": "2.24.0",
+      "versionDate": "2024-10-13T14:00:00-07:00",
+      "versionDescription": ""
+      
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.spotify.client",
+      "developerName": "whoeevee",
+      "downloadURL": "https://github.com/x08vt/skebederepo/releases/download/lel/EeveeSpotify.ipa",
+      "iconURL": "https://x08vt.github.io/skebederepo/img/Spotify.png",
+      "localizedDescription": "This tweak makes Spotify think you have a Premium subscription, granting free listening, just like Spotilife, and provides some additional features like custom lyrics.\n\nThe following features will not work, EVER:\n- Very High audio quality\n- Native playlist downloading (you can download podcast episodes though)\n- Jam (hosting a Spotify Jam and joining it remotely requires Premium; only joining in-person works)",
+      "name": "EeveeSpotify",
+      "category": "entertainment",
+      "permissions": [
+        {
+          "type": "music",
+          "usageDescription": "Spotify requires this permission in order to listen to music files from Apple Music locally."
+        }
+      ],
+      "appPermissions": {
+        "privacy": [
+          {
+            "name": "LocalNetwork",
+            "usageDescription": "Spotify requires this permission in order to stream content to other devices that support Spotify Playback."
+          },
+          {
+            "name": "AppleMusic",
+            "usageDescription": "Spotify requires this permission in order to listen to music files from Apple Music locally."
+          }
+        ]
+      },
+      "screenshotURLs": [
+        "https://x08vt.github.io/skebederepo/img/screenshots/Spotify/SS1-iphone.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/Spotify/SS2-iphone.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/Spotify/SS3-iphone.png"
+      ],
+      "size": 79691776,
+      "subtitle": "𝚗𝚣𝚡 𝚛𝚎𝚙𝚘",
+      "tintColor": "18843c",
+      "version": "8.9.82 (5.5)",
+      "versionDate": "2024-10-10T14:00:00-07:00",
+      "versionDescription": "",
+      "screenshots": {
+        "iphone": [
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/Spotify/SS1-iphone.png",
+            "width": 1370,
+            "height": 2712,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/Spotify/SS2-iphone.png",
+            "width": 1370,
+            "height": 2712,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/Spotify/SS3-iphone.png",
+            "width": 1370,
+            "height": 2712,
+          }
+        ],
+        "ipad": [
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/Spotify/SS1-ipad.png",
+            "width": 2640,
+            "height": 1920,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/Spotify/SS2-ipad.png",
+            "width": 2640,
+            "height": 1920,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/Spotify/SS3-ipad.png",
+            "width": 2640,
+            "height": 1920,
+          }
+        ]
+      }
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "kh.crysalis.feather",
+      "developerName": "khcrysalis",
+      "downloadURL": "https://github.com/x08vt/skebederepo/releases/download/lel/FeatherSign.ipa",
+      "iconURL": "https://x08vt.github.io/skebederepo/img/FeatherSign.png",
+      "localizedDescription": "Feather is a free on-device iOS application manager/installer built with UIKit for quality.\n\nFeatures:\n\nAltstore repo support. Supporting Legacy and 2.0 repo structures\nImport your own .ipa's.\nInject tweaks when signing apps.\nInstall applications straight to your device seamlessly over the air.\nAllows multiple certificate imports for easy switching.\nConfigurable signing options. (name, bundleid, version, other plist options)\nMeant to be used with Apple Accounts that are apart of ADP (Apple Developer Program). however other certificates can also work!\nEasy resigning! If you have another certificate you would like to use on an app you may resign and reinstall that same app!\nNo tracking, analytics, or any of the sort. Your information such as UDID and certificates will never leave the device.",
+      "name": "Feather",
+      "category": "utilities",
+      "screenshotURLs": [
+        "https://x08vt.github.io/skebederepo/img/screenshots/Feather/SS1-iphone.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/Feather/SS2-iphone.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/Feather/SS3-iphone.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/Feather/SS4-iphone.png"
+      ],
+      "size": 10485760,
+      "subtitle": "𝚗𝚣𝚡 𝚛𝚎𝚙𝚘",
+      "tintColor": "7c87fa",
+      "version": "1.0.5",
+      "versionDate": "2024-10-04T14:00:00-07:00",
+      "versionDescription": "",
+      "screenshots": {
+        "iphone": [
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/Feather/SS1-iphone.png",
+            "width": 1370,
+            "height": 2712,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/Feather/SS2-iphone.png",
+            "width": 1370,
+            "height": 2712,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/Feather/SS3-iphone.png",
+            "width": 1370,
+            "height": 2712,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/Feather/SS4-iphone.png",
+            "width": 1370,
+            "height": 2712,
+          }
+        ],
+        "ipad": [
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/Feather/SS1-ipad.png",
+            "width": 1370,
+            "height": 2712,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/Feather/SS2-ipad.png",
+            "width": 2640,
+            "height": 1920,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/Feather/SS3-ipad.png",
+            "width": 2640,
+            "height": 1920,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/Feather/SS4-ipad.png",
+            "width": 2640,
+            "height": 1920,
+          }
+        ]
+      }
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "p3.xyz.yyyue.esign",
+      "developerName": "u/Sharp_Listen3436 (yyy)",
+      "downloadURL": "https://github.com/x08vt/skebederepo/releases/download/lel/ESign.ipa",
+      "iconURL": "https://x08vt.github.io/skebederepo/img/ESign.png",
+      "localizedDescription": "**THIS IS THE NON-TELEMETRY VERSION** \nSign application for iOS is a software tool that enables users to sign documents electronically using their Apple devices, such as iPhones and iPads.\n\nTypically, these applications allow users to:\n1. Upload Documents: Import PDFs or other document types from various sources, including email, cloud storage, or directly from the device.\n2. Sign Documents: Utilize touch or stylus input to create a digital signature, which can be saved for future use.\n3. Form Filling: Fill out forms and add text, checkboxes, and other annotations to documents.\n4. Secure Signing: Ensure document integrity through encryption and authentication methods, often including options for secure authentication.\n5. Tracking and Notifications: Provide functionalities to track document status, send reminders, and notify parties when documents are signed.\n6. Integration: Many eSign apps integrate with other software solutions like document management systems, email clients, and productivity tools.",
+      "name": "ESign",
+      "category": "utilities",
+      "screenshotURLs": [
+        "https://x08vt.github.io/skebederepo/img/screenshots/ESign/ss1.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/ESign/ss2.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/ESign/ss3.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/ESign/ss4.png"
+      ],
+      "size": 7206362,
+      "subtitle": "𝚗𝚣𝚡 𝚛𝚎𝚙𝚘",
+      "tintColor": "93dfd6",
+      "version": "5.0.2",
+      "versionDate": "2024-01-28T21:40:00+08:00",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.epicgames.FortniteGame",
+      "developerName": "Epic Games",
+      "downloadURL": "https://github.com/x08vt/skebederepo/releases/download/lel/Fortnite.ipa",
+      "iconURL": "https://x08vt.github.io/skebederepo/img/FortniteAlt.PNG",
+      "localizedDescription": "Explore large, destructible environments where no two games are ever the same. Team up with friends by sprinting, climbing and smashing your way to earn your Victory Royale, whether you choose to build up in Fortnite Battle Royale or go no-builds in Fortnite Zero Build. Discover even more ways to play across thousands of creator-made game genres: adventure, roleplay, survival and more. Or, band together with up to three friends to fend off hordes of monsters in Save the World.",
+      "name": "Fortnite",
+      "category": "games",
+      "screenshotURLs": [
+        "https://x08vt.github.io/skebederepo/img/screenshots/Fortnite/ss1.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/Fortnite/ss2.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/Fortnite/ss3.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/Fortnite/ss4.png"
+      ],
+      "size": 266757734,
+      "subtitle": "𝚗𝚣𝚡 𝚛𝚎𝚙𝚘",
+      "tintColor": "852afa",
+      "version": "31.40.1",
+      "versionDate": "2024-10-20T14:00:00-07:00",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.epicgames.CAFortniteGame",
+      "developerName": "glesign",
+      "downloadURL": "https://github.com/x08vt/skebederepo/releases/download/lel/FortniteHF.ipa",
+      "iconURL": "https://x08vt.github.io/skebederepo/img/Fortnite.png",
+      "localizedDescription": "Explore large, destructible environments where no two games are ever the same. Team up with friends by sprinting, climbing and smashing your way to earn your Victory Royale, whether you choose to build up in Fortnite Battle Royale or go no-builds in Fortnite Zero Build. Discover even more ways to play across thousands of creator-made game genres: adventure, roleplay, survival and more. Or, band together with up to three friends to fend off hordes of monsters in Save the World.",
+      "name": "Fortnite+CAHighFPS",
+      "category": "games",
+      "screenshotURLs": [
+        "https://x08vt.github.io/skebederepo/img/screenshots/Fortnite/ss1.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/Fortnite/ss2.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/Fortnite/ss3.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/Fortnite/ss4.png"
+      ],
+      "size": 282066944,
+      "subtitle": "𝚗𝚣𝚡 𝚛𝚎𝚙𝚘",
+      "tintColor": "6cd9f8",
+      "version": "31.40.1",
+      "versionDate": "2024-10-20T14:00:00-07:00",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "org.brandonplank.flappybird",
+      "developerName": "Brandon Plank",
+      "downloadURL": "https://github.com/crypticplank/flappybird/releases/download/4.3/org.brandonplank.flappybird.ipa",
+      "iconURL": "https://i.imgur.com/tIUJeSs.png",
+      "localizedDescription": "This Flappy Bird is a revival of the original Flappy Bird by Dong Nguyen. There are a many new features to enhance gameplay as well!\n\n• Tap to flap\n• Avoid the hitting the pipes\n• Flap for infinity!",
+      "name": "Flappy Bird",
+      "category": "games",
+      "screenshotURLs": [
+        "https://i.imgur.com/nIq1VVv_d.webp?maxwidth=760&fidelity=grand",
+        "https://i.imgur.com/TZBdg7M_d.webp?maxwidth=760&fidelity=grand",
+        "https://i.imgur.com/41u9JUh_d.webp?maxwidth=760&fidelity=grand"
+      ],
+      "size": 2099365,
+      "subtitle": "𝚗𝚣𝚡 𝚛𝚎𝚙𝚘",
+      "tintColor": "49cc48",
+      "version": "4.3",
+      "versionDate": "2022-06-14T20:54:11Z",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.leemin.nugget",
+      "developerName": "leminlimez",
+      "downloadURL": "https://github.com/x08vt/skebederepo/releases/download/lel/Nugget.ipa",
+      "iconURL": "https://x08vt.github.io/skebederepo/img/Nugget.png",
+      "localizedDescription": "**THIS APP ONLY TO BE USED IN ALTSTORE OR SIDESTORE** \n\nUnlock your device's full potential! Should work on all versions iOS 16.0 - 18.1 beta 4.\n\nSparserestore was patched in iOS 18.1 beta 5. Please do not make issues about this, it will not be fixed.",
+      "name": "Nugget",
+      "category": "utilities",
+      "permissions": [],
+      "appPermissions": {
+        "entitlements": [
+          {
+            "name": "platform-application"
+          },
+          {
+            "name": "com.app.developer.team-identifier"
+          },
+          {
+            "name": "com.apple.UIKit.status-bar-override-allow"
+          },
+          {
+            "name": "get-task-allow"
+          },
+          {
+            "name": "com.apple.security.iokit.user-client-class"
+          },
+          {
+            "name": "com.apple.security.exception.files.absolute-path.read-write"
+          },
+          {
+            "name": "com.apple.mobile.deleted.AllowFreeSpace"
+          },
+          {
+            "name": "com.apple.private.security.container-manager"
+          },
+          {
+            "name": "com.apple.private.security.no-container"
+          },
+          {
+            "name": "com.apple.private.security.no-sandbox"
+          },
+          {
+            "name": "com.apple.private.persona-mgmt"
+          },
+          {
+            "name": "com.apple.private.WebClips.read-write"
+          },
+          {
+            "name": "com.apple.locationd.simulation"
+          },
+          {
+            "name": "com.apple.SystemConfiguration.SCDynamicStore-write-access"
+          },
+          {
+            "name": "com.apple.private.security.system-application"
+          },
+          {
+            "name": "com.apple.private.coreservices.canmaplsdatabase"
+          },
+          {
+            "name": "com.apple.lsapplicationworkspace.rebuildappdatabases"
+          },
+          {
+            "name": "com.apple.private.MobileContainerManager.allowed"
+          },
+          {
+            "name": "com.apple.private.MobileInstallationHelperService.InstallDaemonOpsEnabled"
+          },
+          {
+            "name": "com.apple.private.MobileInstallationHelperService.allowed"
+          },
+          {
+            "name": "com.apple.private.uninstall.deletion"
+          },
+          {
+            "name": "com.apple.private.security.storage.MobileDocuments"
+          },
+          {
+            "name": "com.apple.managedconfiguration.profiled-access"
+          }
+        ],
+        "privacy": []
+      },
+      "screenshotURLs": [
+        "https://x08vt.github.io/skebederepo/img/screenshots/AltClientONLY.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/Nugget/SS1-iphone.PNG",
+        "https://x08vt.github.io/skebederepo/img/screenshots/Nugget/SS2-iphone.PNG"
+      ],
+      "size": 7759462,
+      "subtitle": "𝚗𝚣𝚡 𝚛𝚎𝚙𝚘",
+      "tintColor": "0f3ff8",
+      "version": "2.0",
+      "versionDate": "2024-10-17",
+      "versionDescription": "",
+      "screenshots": {
+        "iphone": [
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/Nugget/AltClientONLY.png",
+            "width": 1370,
+            "height": 2712,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/Nugget/SS1-iphone.png",
+            "width": 1370,
+            "height": 2712,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/Nugget/SS2-iphone.png",
+            "width": 1370,
+            "height": 2712,
+          }
+        ],
+        "ipad": [
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/Nugget/AltClientONLY.png",
+            "width": 1370,
+            "height": 2712,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/Nugget/SS1-ipad.png",
+            "width": 2640,
+            "height": 1920,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/Nugget/SS2-ipad.png",
+            "width": 2640,
+            "height": 1920,
+          }
+        ]
+      }
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "au.com.savageinteractive.procreate",
+      "developerName": "Savage Interactive Pty Ltd",
+      "downloadURL": "https://github.com/x08vt/skebederepo/releases/download/lel/Procreate.ipa",
+      "iconURL": "https://x08vt.github.io/skebederepo/img/Procreate.png",
+      "localizedDescription": "Loved by creative professionals and aspiring artists alike, Procreate is the leading creative application made for iPad.\n\n\nProcreate has everything you need to create expressive sketches, rich paintings, gorgeous illustrations, and beautiful animations. Offering 100s of handmade brushes, a suite of industry-leading artistic tools, an advanced layer system, and the powerful Valkyrie graphics engine.\n\n\nIt’s a complete art studio you can take anywhere.\n\n\nHighlights:\n\n• High resolution canvases — up to 16k by 8k on compatible iPad Pros\n\n• Beautifully intuitive interface made for iPad and Apple Pencil\n\n• Revolutionary QuickShape feature for perfect shapes\n\n• Smooth and responsive smudge sampling\n\n• 3D Painting with Lighting Studio, exportable as models, images, or animations\n\n• Powered by Valkyrie, the lightning-fast 64-bit painting engine\n\n• Speed up your workflow with keyboard shortcuts\n\n• Create art in stunning 64-bit color\n\n• Continuous auto-save — never lose work again\n\n\nBreakthrough brushes:\n\n• Packed with hundreds of beautifully crafted brushes\n\n• Brush sets to organize your painting, sketching, and drawing brushes\n\n• Over 100 customizable settings for every brush\n\n• Add Metallic and Roughness for painting in 3D\n\n• Brush Studio — design custom Procreate brushes\n\n• Import and export custom Procreate brushes\n\n• Import Adobe® Photoshop® brushes, and run them faster than Photoshop®\n\n\nFull-featured layering system:\n\n• Layer your art for precise control over details and composition\n\n• Create Layer Masks and Clipping Masks for non-destructive editing\n\n• Stay organized by combining layers into Groups\n\n• Select multiple layers to move or Transform objects simultaneously\n\n• Access over 25 layer blend modes for industry-grade compositing\n\n\nColor without compromise:\n\n• Fill your line work with ColorDrop and SwatchDrop\n\n• Disc, Classic, Harmony, Value, and Palette color panels\n\n• Import color profiles for color matching\n\n• Assign Color Dynamics to any brush\n\n\nPrecision design tools:\n\n• Add vector text to your illustrations\n\n• Easily import all your favorite fonts\n\n• Crop and resize your canvas for perfect composition\n\n• Perspective, Isometric, 2D, and Symmetry visual guides\n\n• Drawing Assist perfects your strokes in real time\n\n• StreamLine and stabilization smooths strokes for beautiful calligraphy and expert inking\n\n• Use Scribble to name layers, change settings, and create text\n\n\nAccessibility features:\n\n• Advanced stroke stabilization\n\n• Dynamic Type, VoiceOver, and Feedback Sounds\n\n• Assignable single-touch gestures\n\n• Color naming\n\n\nAnimation and Page Assist\n\n• Easy frame-by-frame animation with customizable onion skinning\n\n• Create storyboards, GIFs, animatics, and simple animations\n\n• Sketch page-by-page concepts or begin a comic with Page Assist\n\n• Import, edit, and share PDFs\n\n\nDramatic finishing effects:\n\n• Brush in image adjustments and effects with Apple Pencil\n\n• Glitch, Chromatic Aberration, Bloom, Noise, and Halftone add new dimensions to your work\n\n• Gaussian, Motion, and Perspective Blur filters create depth and movement\n\n• Powerful image adjustments including Color Balance, Curves, HSB, and Gradient Map\n\n• Bring your art to life with the fun, intuitive, and creative Warp, Symmetry, and Liquify Dynamics\n\n\nTime-lapse replay\n\n• Relive your creative journey with Procreate’s Time-lapse Replay\n\n• Export your Time-lapse recording in 4K for high-quality video production\n\n• Share a shorter 30-second Time-lapse on your socials\n\n\nImport assets and share your creations:\n\n• Import or export your art as Adobe® Photoshop® PSD files\n\n• Import Adobe® ASE and ACO Color Palettes\n\n• Import image files such as JPG, PNG, and TIFF\n\n• Export your working files in layered .procreate or PSD file formats\n\n• Share your art as TIFF, transparent PNG, multi-page PDF, web-ready JPEG, OBJ, USDZ, and animated GIFs, PNGs, and MP4s",
+      "name": "Procreate",
+      "category": "lifestyle",
+      "permissions": [
+        {
+          "type": "photos",
+          "usageDescription": "Procreate requires this permission to save your artworks to Photos."
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          {
+            "name": "application-identifier"
+          },
+          {
+            "name": "com.app.developer.team-identifier"
+          }
+        ],
+        "privacy": [
+          {
+            "name": "PhotoLibrary",
+            "usageDescription": "Procreate requires this permission to save your artworks to Photos."
+          }
+        ]
+      },
+      "screenshotURLs": [
+        "https://x08vt.github.io/skebederepo/img/screenshots/Procreate/ss1.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/Procreate/ss2.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/Procreate/ss3.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/Procreate/ss4.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/Procreate/ss5.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/Procreate/ss6.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/Procreate/ss7.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/Procreate/ss8.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/Procreate/ss9.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/Procreate/ss10.png"
+      ],
+      "size": 484442112,
+      "subtitle": "𝚗𝚣𝚡 𝚛𝚎𝚙𝚘",
+      "tintColor": "242424",
+      "version": "5.3.6",
+      "versionDate": "2024-09-18",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.repo.end",
+      "developerName": " ",
+      "downloadURL": "sigma.idp",
+      "iconURL": "https://x08vt.github.io/skebederepo/img/Misc/RepoEnd.PNG",
+      "localizedDescription": "",
+      "name": "Repository End",
+      "category": "other",
+      "screenshotURLs": [],
+      "size": 0,
+      "subtitle": "",
+      "tintColor": "d583de",
+      "version": "0",
+      "versionDate": "1000-10-10T14:00:00-07:00",
+      "versionDescription": ""
+    }
+  ],
+  "featuredApps": [
+    "com.epicgames.FortniteGame",
+    "au.com.savageinteractive.procreate",
+    "com.kdt.livecontainer"
+  ],
+  "identifier": "com.slv.nzx",
+  "name": "𝚗𝚣𝚡 𝚛𝚎𝚙𝚘",
+  "subtitle": "welcome to my application repository - xplwixz",
+  "website": "https://bit.ly/thesigmasite",
+  "news": [],
+  "sourceIconURL": "https://x08vt.github.io/skebederepo/img/sourceICON/sourceICON-Alt.png",
+  "iconURL": "https://x08vt.github.io/skebederepo/img/sourceICON/sourceICON-Alt.png",
+  "headerURL": "https://x08vt.github.io/skebederepo/img/sourceHEADER/sourceHEADER-Alt",
+  "sourceURL": "https://x08vt.github.io/skebederepo/json/library.json",
+  "connectOrganizationId": "093a71fd-b4e5-48c7-bb9f-170a7d007f77",
+  "userinfo": {},
+  "version": 2
+}
