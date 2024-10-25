@@ -658,16 +658,15 @@
   "subtitle": "welcome to my application repository - xplwixz",
   "website": "https://bit.ly/thesigmasite",
   "news": [
-    {
+{
       "appID": "com.repo.welcome",
-      "caption": "Welcome to my repository! You may see that there is currently some inconsistency in the apps library. I am currently working on fixing this issue. In the meantime, welcome to my repository!",
-      "date": "2024-10-01",
-      "identifier": "com.slv.nsx.welcome",
+      "caption": "Welcome to my repository! You may see that there is currently some inconsistency in the apps library. I am currently working on fixing this issue. In the meantime, I hope you enjoy!",
+      "date": "2024-10-24",
+      "identifier": "nsx-welcome",
       "imageURL": "https://x08vt.github.io/skebederepo/img/Misc/welcomeHEADER.png",
-      "notify": true,
+      "notify": false,
       "tintColor": "d583de",
-      "title": "𝙽𝚂𝚇 𝚁𝙴𝙿𝙾 - Welcome!",
-      "url": ""
+      "title": "𝙽𝚂𝚇 𝚁𝙴𝙿𝙾 - Welcome!"
     }
   ],
   "sourceIconURL": "https://x08vt.github.io/skebederepo/img/sourceICON/sourceICON-Alt.png",
