@@ -664,7 +664,7 @@
       "date": "2024-10-01",
       "identifier": "com.slv.nsx.welcome",
       "imageURL": "https://x08vt.github.io/skebederepo/img/Misc/welcomeHEADER.png",
-      "notify": false,
+      "notify": true,
       "tintColor": "d583de",
       "title": "𝙽𝚂𝚇 𝚁𝙴𝙿𝙾 - Welcome!",
       "url": ""
