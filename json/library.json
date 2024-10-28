@@ -530,6 +530,63 @@
     },
     {
       "beta": false,
+      "bundleIdentifier": "org.brandonplank.flappybird",
+      "developerName": "Brandon Plank",
+      "downloadURL": "https://github.com/crypticplank/flappybird/releases/download/4.3/org.brandonplank.flappybird.ipa",
+      "iconURL": "https://i.imgur.com/tIUJeSs.png",
+      "localizedDescription": "This Flappy Bird is a revival of the original Flappy Bird by Dong Nguyen. There are a many new features to enhance gameplay as well!\n\n• Tap to flap\n• Avoid the hitting the pipes\n• Flap for infinity!",
+      "name": "Flappy Bird",
+      "category": "games",
+      "screenshotURLs": [
+        "https://x08vt.github.io/skebederepo/img/screenshots/FlappyBird/SS1-iphone.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/FlappyBird/SS2-iphone.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/FlappyBird/SS3-iphone.png"
+      ],
+      "size": 2099365,
+      "subtitle": "𝚗𝚣𝚡 𝚛𝚎𝚙𝚘",
+      "tintColor": "49cc48",
+      "version": "4.3",
+      "versionDate": "2022-06-14T20:54:11Z",
+      "versionDescription": "",
+      "screenshots": {
+        "iphone": [
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/FlappyBird/SS1-iphone.png",
+            "width": 1370,
+            "height": 2712,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/FlappyBird/SS2-iphone.png",
+            "width": 1370,
+            "height": 2712,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/FlappyBird/SS3-iphone.png",
+            "width": 1370,
+            "height": 2712,
+          }
+        ],
+        "ipad": [
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/FlappyBird/SS1-ipad.png",
+            "width": 2640,
+            "height": 1920,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/FlappyBird/SS2-ipad.png",
+            "width": 2640,
+            "height": 1920,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/FlappyBird/SS3-ipad.png",
+            "width": 2640,
+            "height": 1920,
+          }
+        ]
+      }
+    },
+    {
+      "beta": false,
       "bundleIdentifier": "com.kairos.duet",
       "developerName": "IPA Library",
       "downloadURL": "https://github.com/x08vt/skebederepo/releases/download/lel/DuetDisplay++.ipa",
@@ -594,63 +651,6 @@
           }
         ]
       }   
-    },
-    {
-      "beta": false,
-      "bundleIdentifier": "org.brandonplank.flappybird",
-      "developerName": "Brandon Plank",
-      "downloadURL": "https://github.com/crypticplank/flappybird/releases/download/4.3/org.brandonplank.flappybird.ipa",
-      "iconURL": "https://i.imgur.com/tIUJeSs.png",
-      "localizedDescription": "This Flappy Bird is a revival of the original Flappy Bird by Dong Nguyen. There are a many new features to enhance gameplay as well!\n\n• Tap to flap\n• Avoid the hitting the pipes\n• Flap for infinity!",
-      "name": "Flappy Bird",
-      "category": "games",
-      "screenshotURLs": [
-        "https://x08vt.github.io/skebederepo/img/screenshots/FlappyBird/SS1-iphone.png",
-        "https://x08vt.github.io/skebederepo/img/screenshots/FlappyBird/SS2-iphone.png",
-        "https://x08vt.github.io/skebederepo/img/screenshots/FlappyBird/SS3-iphone.png"
-      ],
-      "size": 2099365,
-      "subtitle": "𝚗𝚣𝚡 𝚛𝚎𝚙𝚘",
-      "tintColor": "49cc48",
-      "version": "4.3",
-      "versionDate": "2022-06-14T20:54:11Z",
-      "versionDescription": "",
-      "screenshots": {
-        "iphone": [
-          {
-            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/FlappyBird/SS1-iphone.png",
-            "width": 1370,
-            "height": 2712,
-          },
-          {
-            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/FlappyBird/SS2-iphone.png",
-            "width": 1370,
-            "height": 2712,
-          },
-          {
-            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/FlappyBird/SS3-iphone.png",
-            "width": 1370,
-            "height": 2712,
-          }
-        ],
-        "ipad": [
-          {
-            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/FlappyBird/SS1-ipad.png",
-            "width": 2640,
-            "height": 1920,
-          },
-          {
-            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/FlappyBird/SS2-ipad.png",
-            "width": 2640,
-            "height": 1920,
-          },
-          {
-            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/FlappyBird/SS3-ipad.png",
-            "width": 2640,
-            "height": 1920,
-          }
-        ]
-      }
     },
     {
       "beta": false,
