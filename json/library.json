@@ -693,7 +693,7 @@
   "name": "𝚗𝚣𝚡 𝚛𝚎𝚙𝚘",
   "subtitle": "welcome to my application repository! - xplwixz",
   "website": "bit.ly/nzxwebsite",
-  "tintColor": "#38efd3",
+  "tintColor": "000000",
   "news": [
 {
       "appID": "com.repo.welcome",
