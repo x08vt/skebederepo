@@ -144,9 +144,9 @@
       "name": "Duet Display",
       "category": "utilities",
       "screenshotURLs": [
-        "https://x08vt.github.io/skebederepo/img/screenshots/DuetDisplay/SS1-iphone.png",
-        "https://x08vt.github.io/skebederepo/img/screenshots/DuetDisplay/SS2-iphone.png",
-        "https://x08vt.github.io/skebederepo/img/screenshots/DuetDisplay/SS3-iphone.png"
+        "https://x08vt.github.io/skebederepo/img/screenshots/DuetDisplay/SS1-iphon.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/DuetDisplay/SS2-iphon.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/DuetDisplay/SS3-iphon.png"
       ],
       "size": 42991616,
       "subtitle": "𝚗𝚣𝚡 𝚛𝚎𝚙𝚘",
@@ -157,17 +157,17 @@
       "screenshots": {
         "iphone": [
           {
-            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/DuetDisplay/SS1-iphone.png",
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/DuetDisplay/SS1-iphon.png",
             "width": 2712,
             "height": 1370,
           },
           {
-            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/DuetDisplay/SS2-iphone.png",
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/DuetDisplay/SS2-iphon.png",
             "width": 2712,
             "height": 1370,
           },
           {
-            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/DuetDisplay/SS3-iphone.png",
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/DuetDisplay/SS3-iphon.png",
             "width": 2712,
             "height": 1370,
           }
