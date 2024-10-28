@@ -175,7 +175,7 @@
         "privacy": [
           {
             "name": "LocalNetwork",
-            "usageDescription": "Duet requires this permission in order to find and connect to computers wirelessly."
+            "usageDescription": "Duet requests this permission in order to find and connect to computers wirelessly."
           }
         ]
       },
@@ -522,6 +522,9 @@
           },
           {
             "name": "com.apple.developer.kernel.increased-memory-limit"
+          },
+          {
+            "name": "aps-environment"
           }
         ],
         "privacy": [
@@ -624,6 +627,9 @@
           },
           {
             "name": "com.apple.developer.kernel.increased-memory-limit"
+          },
+          {
+            "name": "aps-environment"
           }
         ],
         "privacy": [
@@ -899,7 +905,7 @@
           },
           {
             "name": "PhotoLibraryAdd",
-            "usageDescription": "Procreate requests this permission to add photos to your artworks."
+            "usageDescription": "Procreate requests this permission to add photos inside your artworks, as well as to import as artworks."
           }
         ]
       },
