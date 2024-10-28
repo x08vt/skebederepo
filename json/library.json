@@ -923,7 +923,7 @@
       "iconURL": "https://x08vt.github.io/skebederepo/img/Misc/RepoWelcome.png",
       "localizedDescription": "",
       "maxOSVersion": "9.0",
-      "name": "Welcome to 𝚗𝚜𝚡!",
+      "name": "Welcome to 𝚗𝚣𝚡!",
       "category": "other",
       "screenshotURLs": [],
       "size": 0,
@@ -949,11 +949,11 @@
       "appID": "com.repo.welcome",
       "caption": "Welcome to my repository! You may see that there is currently some inconsistency in the apps library. I am currently working on fixing this issue. In the meantime, I hope you enjoy!",
       "date": "2024-10-24",
-      "identifier": "nsx-welcome",
+      "identifier": "nzx-welcome",
       "imageURL": "https://x08vt.github.io/skebederepo/img/Misc/welcomeHEADER.png",
       "notify": false,
       "tintColor": "d583de",
-      "title": "𝙽𝚂𝚇 𝚁𝙴𝙿𝙾 - Welcome!"
+      "title": "𝙽𝚉𝚇 𝚁𝙴𝙿𝙾 - Welcome!"
     }
   ],
   "sourceIconURL": "https://x08vt.github.io/skebederepo/img/sourceICON/sourceICON-Alt.png",
