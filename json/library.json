@@ -57,12 +57,6 @@
           },
           {
             "name": "keychain-access-groups"
-          },
-          {
-            "name": "application-identifier"
-          },
-          {
-            "name": "com.app.developer.team-identifier"
           }
         ],
         "privacy": [
@@ -164,14 +158,7 @@
       "category": "utilities",
       "permissions": [],
       "appPermissions": {
-        "entitlements": [
-          {
-            "name": "application-identifier"
-          },
-          {
-            "name": "com.app.developer.team-identifier"
-          }
-        ],
+        "entitlements": [],
         "privacy": [
           {
             "name": "LocalNetwork",
@@ -244,12 +231,6 @@
       ],
       "appPermissions": {
         "entitlements": [
-          {
-            "name": "application-identifier"
-          },
-          {
-            "name": "com.app.developer.team-identifier"
-          },
           {
             "name": "aps-environment"
           }
@@ -340,14 +321,7 @@
       "category": "utilities",
       "permissions": [],
       "appPermissions": {
-        "entitlements": [
-          {
-            "name": "application-identifier"
-          },
-          {
-            "name": "com.app.developer.team-identifier"
-          }
-        ],
+        "entitlements": [],
         "privacy": [
           {
             "name": "PhotoLibraryAdd",
@@ -425,14 +399,7 @@
       "category": "utilities",
       "permissions": [],
       "appPermissions": {
-        "entitlements": [
-          {
-            "name": "application-identifier"
-          },
-          {
-            "name": "com.app.developer.team-identifier"
-          }
-        ],
+        "entitlements": [],
         "privacy": [
           {
             "name": "PhotoLibraryAdd",
@@ -511,12 +478,6 @@
       "permissions": [],
       "appPermissions": {
         "entitlements": [
-          {
-            "name": "application-identifier"
-          },
-          {
-            "name": "com.app.developer.team-identifier"
-          },
           {
             "name": "com.apple.developer.kernel.extended-virtual-addressing"
           },
@@ -617,12 +578,6 @@
       "appPermissions": {
         "entitlements": [
           {
-            "name": "application-identifier"
-          },
-          {
-            "name": "com.app.developer.team-identifier"
-          },
-          {
             "name": "com.apple.developer.kernel.extended-virtual-addressing"
           },
           {
@@ -718,29 +673,53 @@
       "localizedDescription": "This Flappy Bird is a revival of the original Flappy Bird by Dong Nguyen. There are a many new features to enhance gameplay as well!\n\n• Tap to flap\n• Avoid the hitting the pipes\n• Flap for infinity!",
       "name": "Flappy Bird",
       "category": "games",
-      "permissions": [],
-      "appPermissions": {
-        "entitlements": [
-          {
-            "name": "application-identifier"
-          },
-          {
-            "name": "com.app.developer.team-identifier"
-          }
-        ],
-        "privacy": []
-      },
       "screenshotURLs": [
-        "https://i.imgur.com/nIq1VVv_d.webp?maxwidth=760&fidelity=grand",
-        "https://i.imgur.com/TZBdg7M_d.webp?maxwidth=760&fidelity=grand",
-        "https://i.imgur.com/41u9JUh_d.webp?maxwidth=760&fidelity=grand"
+        "https://x08vt.github.io/skebederepo/img/screenshots/FlappyBird/SS1-iphone.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/FlappyBird/SS2-iphone.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/FlappyBird/SS3-iphone.png"
       ],
       "size": 2099365,
       "subtitle": "𝚗𝚣𝚡 𝚛𝚎𝚙𝚘",
       "tintColor": "49cc48",
       "version": "4.3",
       "versionDate": "2022-06-14T20:54:11Z",
-      "versionDescription": ""
+      "versionDescription": "",
+      "screenshots": {
+        "iphone": [
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/FlappyBird/SS1-iphone.png",
+            "width": 1370,
+            "height": 2712,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/FlappyBird/SS2-iphone.png",
+            "width": 1370,
+            "height": 2712,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/FlappyBird/SS3-iphone.png",
+            "width": 1370,
+            "height": 2712,
+          }
+        ],
+        "ipad": [
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/FlappyBird/SS1-ipad.png",
+            "width": 2640,
+            "height": 1920,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/FlappyBird/SS2-ipad.png",
+            "width": 2640,
+            "height": 1920,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/FlappyBird/SS3-ipad.png",
+            "width": 2640,
+            "height": 1920,
+          }
+        ]
+      }
     },
     {
       "beta": false,
@@ -756,9 +735,6 @@
         "entitlements": [
           {
             "name": "platform-application"
-          },
-          {
-            "name": "com.app.developer.team-identifier"
           },
           {
             "name": "com.apple.UIKit.status-bar-override-allow"
@@ -890,14 +866,7 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [
-          {
-            "name": "application-identifier"
-          },
-          {
-            "name": "com.app.developer.team-identifier"
-          }
-        ],
+        "entitlements": [],
         "privacy": [
           {
             "name": "PhotoLibrary",
