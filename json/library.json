@@ -149,70 +149,132 @@
     },
     {
       "beta": false,
-      "bundleIdentifier": "com.kairos.duet",
-      "developerName": "IPA Library",
-      "downloadURL": "https://github.com/x08vt/skebederepo/releases/download/lel/DuetDisplay++.ipa",
-      "iconURL": "https://x08vt.github.io/skebederepo/img/DuetDisplay.png",
-      "localizedDescription": "Features:\n- Hack subscription\n\nDuet turns your iPad or iPhone into the most advanced extra display for your Mac & PC. Developed by a team of ex-Apple engineers, Duet offers unparalleled performance and display quality - all with zero lag.",
-      "name": "Duet Display",
+      "bundleIdentifier": "com.leemin.nugget",
+      "developerName": "leminlimez",
+      "downloadURL": "https://github.com/x08vt/skebederepo/releases/download/lel/Nugget.ipa",
+      "iconURL": "https://x08vt.github.io/skebederepo/img/Nugget.png",
+      "localizedDescription": "**THIS APP ONLY TO BE USED IN ALTSTORE OR SIDESTORE** \n\nUnlock your device's full potential! Should work on all versions iOS 16.0 - 18.1 beta 4.\n\nSparserestore was patched in iOS 18.1 beta 5. Please do not make issues about this, it will not be fixed.",
+      "name": "Nugget",
       "category": "utilities",
       "permissions": [],
       "appPermissions": {
-        "entitlements": [],
-        "privacy": [
+        "entitlements": [
           {
-            "name": "LocalNetwork",
-            "usageDescription": "Duet requests this permission in order to find and connect to computers wirelessly."
+            "name": "platform-application"
+          },
+          {
+            "name": "com.apple.UIKit.status-bar-override-allow"
+          },
+          {
+            "name": "get-task-allow"
+          },
+          {
+            "name": "com.apple.security.iokit.user-client-class"
+          },
+          {
+            "name": "com.apple.security.exception.files.absolute-path.read-write"
+          },
+          {
+            "name": "com.apple.mobile.deleted.AllowFreeSpace"
+          },
+          {
+            "name": "com.apple.private.security.container-manager"
+          },
+          {
+            "name": "com.apple.private.security.no-container"
+          },
+          {
+            "name": "com.apple.private.security.no-sandbox"
+          },
+          {
+            "name": "com.apple.private.persona-mgmt"
+          },
+          {
+            "name": "com.apple.private.WebClips.read-write"
+          },
+          {
+            "name": "com.apple.locationd.simulation"
+          },
+          {
+            "name": "com.apple.SystemConfiguration.SCDynamicStore-write-access"
+          },
+          {
+            "name": "com.apple.private.security.system-application"
+          },
+          {
+            "name": "com.apple.private.coreservices.canmaplsdatabase"
+          },
+          {
+            "name": "com.apple.lsapplicationworkspace.rebuildappdatabases"
+          },
+          {
+            "name": "com.apple.private.MobileContainerManager.allowed"
+          },
+          {
+            "name": "com.apple.private.MobileInstallationHelperService.InstallDaemonOpsEnabled"
+          },
+          {
+            "name": "com.apple.private.MobileInstallationHelperService.allowed"
+          },
+          {
+            "name": "com.apple.private.uninstall.deletion"
+          },
+          {
+            "name": "com.apple.private.security.storage.MobileDocuments"
+          },
+          {
+            "name": "com.apple.managedconfiguration.profiled-access"
           }
-        ]
+        ],
+        "privacy": []
       },
       "screenshotURLs": [
-        "https://x08vt.github.io/skebederepo/img/screenshots/DuetDisplay/SS1-iphon.png",
-        "https://x08vt.github.io/skebederepo/img/screenshots/DuetDisplay/SS2-iphon.png",
-        "https://x08vt.github.io/skebederepo/img/screenshots/DuetDisplay/SS3-iphon.png"
+        "https://x08vt.github.io/skebederepo/img/screenshots/Nugget/AltClientONLY.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/Nugget/SS1-iphone.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/Nugget/SS2-iphone.png"
       ],
-      "size": 42991616,
+      "size": 7759462,
       "subtitle": "𝚗𝚣𝚡 𝚛𝚎𝚙𝚘",
-      "tintColor": "77a7e1",
-      "version": "2.24.0",
-      "versionDate": "2024-10-13T14:00:00-07:00",
+      "tintColor": "0f3ff8",
+      "version": "2.0",
+      "versionDate": "2024-10-17",
       "versionDescription": "",
       "screenshots": {
         "iphone": [
           {
-            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/DuetDisplay/SS1-iphon.png",
-            "width": 2712,
-            "height": 1370,
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/Nugget/AltClientONLY.png",
+            "width": 1370,
+            "height": 2712,
           },
           {
-            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/DuetDisplay/SS2-iphon.png",
-            "width": 2712,
-            "height": 1370,
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/Nugget/SS1-iphone.png",
+            "width": 1370,
+            "height": 2712,
           },
           {
-            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/DuetDisplay/SS3-iphon.png",
-            "width": 2712,
-            "height": 1370,
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/Nugget/SS2-iphone.png",
+            "width": 1370,
+            "height": 2712,
           }
         ],
         "ipad": [
           {
-            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/DuetDisplay/SS1-ipad.png",
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/Nugget/AltClientONLY.png",
+            "width": 1370,
+            "height": 2712,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/Nugget/SS1-ipad.png",
             "width": 2640,
             "height": 1920,
           },
           {
-            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/DuetDisplay/SS2-ipad.png",
-            "width": 2640,
-            "height": 1920,
-          },
-          {
-            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/DuetDisplay/SS3-ipad.png",
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/Nugget/SS2-ipad.png",
             "width": 2640,
             "height": 1920,
           }
         ]
-      }   
+      }
     },
     {
       "beta": false,
@@ -468,6 +530,130 @@
     },
     {
       "beta": false,
+      "bundleIdentifier": "com.kairos.duet",
+      "developerName": "IPA Library",
+      "downloadURL": "https://github.com/x08vt/skebederepo/releases/download/lel/DuetDisplay++.ipa",
+      "iconURL": "https://x08vt.github.io/skebederepo/img/DuetDisplay.png",
+      "localizedDescription": "Features:\n- Hack subscription\n\nDuet turns your iPad or iPhone into the most advanced extra display for your Mac & PC. Developed by a team of ex-Apple engineers, Duet offers unparalleled performance and display quality - all with zero lag.",
+      "name": "Duet Display",
+      "category": "utilities",
+      "permissions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": [
+          {
+            "name": "LocalNetwork",
+            "usageDescription": "Duet requests this permission in order to find and connect to computers wirelessly."
+          }
+        ]
+      },
+      "screenshotURLs": [
+        "https://x08vt.github.io/skebederepo/img/screenshots/DuetDisplay/SS1-iphon.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/DuetDisplay/SS2-iphon.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/DuetDisplay/SS3-iphon.png"
+      ],
+      "size": 42991616,
+      "subtitle": "𝚗𝚣𝚡 𝚛𝚎𝚙𝚘",
+      "tintColor": "77a7e1",
+      "version": "2.24.0",
+      "versionDate": "2024-10-13T14:00:00-07:00",
+      "versionDescription": "",
+      "screenshots": {
+        "iphone": [
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/DuetDisplay/SS1-iphon.png",
+            "width": 2712,
+            "height": 1370,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/DuetDisplay/SS2-iphon.png",
+            "width": 2712,
+            "height": 1370,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/DuetDisplay/SS3-iphon.png",
+            "width": 2712,
+            "height": 1370,
+          }
+        ],
+        "ipad": [
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/DuetDisplay/SS1-ipad.png",
+            "width": 2640,
+            "height": 1920,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/DuetDisplay/SS2-ipad.png",
+            "width": 2640,
+            "height": 1920,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/DuetDisplay/SS3-ipad.png",
+            "width": 2640,
+            "height": 1920,
+          }
+        ]
+      }   
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "org.brandonplank.flappybird",
+      "developerName": "Brandon Plank",
+      "downloadURL": "https://github.com/crypticplank/flappybird/releases/download/4.3/org.brandonplank.flappybird.ipa",
+      "iconURL": "https://i.imgur.com/tIUJeSs.png",
+      "localizedDescription": "This Flappy Bird is a revival of the original Flappy Bird by Dong Nguyen. There are a many new features to enhance gameplay as well!\n\n• Tap to flap\n• Avoid the hitting the pipes\n• Flap for infinity!",
+      "name": "Flappy Bird",
+      "category": "games",
+      "screenshotURLs": [
+        "https://x08vt.github.io/skebederepo/img/screenshots/FlappyBird/SS1-iphone.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/FlappyBird/SS2-iphone.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/FlappyBird/SS3-iphone.png"
+      ],
+      "size": 2099365,
+      "subtitle": "𝚗𝚣𝚡 𝚛𝚎𝚙𝚘",
+      "tintColor": "49cc48",
+      "version": "4.3",
+      "versionDate": "2022-06-14T20:54:11Z",
+      "versionDescription": "",
+      "screenshots": {
+        "iphone": [
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/FlappyBird/SS1-iphone.png",
+            "width": 1370,
+            "height": 2712,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/FlappyBird/SS2-iphone.png",
+            "width": 1370,
+            "height": 2712,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/FlappyBird/SS3-iphone.png",
+            "width": 1370,
+            "height": 2712,
+          }
+        ],
+        "ipad": [
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/FlappyBird/SS1-ipad.png",
+            "width": 2640,
+            "height": 1920,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/FlappyBird/SS2-ipad.png",
+            "width": 2640,
+            "height": 1920,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/FlappyBird/SS3-ipad.png",
+            "width": 2640,
+            "height": 1920,
+          }
+        ]
+      }
+    },
+    {
+      "beta": false,
       "bundleIdentifier": "com.epicgames.FortniteGame",
       "developerName": "Epic Games",
       "downloadURL": "https://github.com/x08vt/skebederepo/releases/download/lel/Fortnite.ipa",
@@ -666,192 +852,6 @@
     },
     {
       "beta": false,
-      "bundleIdentifier": "org.brandonplank.flappybird",
-      "developerName": "Brandon Plank",
-      "downloadURL": "https://github.com/crypticplank/flappybird/releases/download/4.3/org.brandonplank.flappybird.ipa",
-      "iconURL": "https://i.imgur.com/tIUJeSs.png",
-      "localizedDescription": "This Flappy Bird is a revival of the original Flappy Bird by Dong Nguyen. There are a many new features to enhance gameplay as well!\n\n• Tap to flap\n• Avoid the hitting the pipes\n• Flap for infinity!",
-      "name": "Flappy Bird",
-      "category": "games",
-      "screenshotURLs": [
-        "https://x08vt.github.io/skebederepo/img/screenshots/FlappyBird/SS1-iphone.png",
-        "https://x08vt.github.io/skebederepo/img/screenshots/FlappyBird/SS2-iphone.png",
-        "https://x08vt.github.io/skebederepo/img/screenshots/FlappyBird/SS3-iphone.png"
-      ],
-      "size": 2099365,
-      "subtitle": "𝚗𝚣𝚡 𝚛𝚎𝚙𝚘",
-      "tintColor": "49cc48",
-      "version": "4.3",
-      "versionDate": "2022-06-14T20:54:11Z",
-      "versionDescription": "",
-      "screenshots": {
-        "iphone": [
-          {
-            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/FlappyBird/SS1-iphone.png",
-            "width": 1370,
-            "height": 2712,
-          },
-          {
-            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/FlappyBird/SS2-iphone.png",
-            "width": 1370,
-            "height": 2712,
-          },
-          {
-            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/FlappyBird/SS3-iphone.png",
-            "width": 1370,
-            "height": 2712,
-          }
-        ],
-        "ipad": [
-          {
-            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/FlappyBird/SS1-ipad.png",
-            "width": 2640,
-            "height": 1920,
-          },
-          {
-            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/FlappyBird/SS2-ipad.png",
-            "width": 2640,
-            "height": 1920,
-          },
-          {
-            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/FlappyBird/SS3-ipad.png",
-            "width": 2640,
-            "height": 1920,
-          }
-        ]
-      }
-    },
-    {
-      "beta": false,
-      "bundleIdentifier": "com.leemin.nugget",
-      "developerName": "leminlimez",
-      "downloadURL": "https://github.com/x08vt/skebederepo/releases/download/lel/Nugget.ipa",
-      "iconURL": "https://x08vt.github.io/skebederepo/img/Nugget.png",
-      "localizedDescription": "**THIS APP ONLY TO BE USED IN ALTSTORE OR SIDESTORE** \n\nUnlock your device's full potential! Should work on all versions iOS 16.0 - 18.1 beta 4.\n\nSparserestore was patched in iOS 18.1 beta 5. Please do not make issues about this, it will not be fixed.",
-      "name": "Nugget",
-      "category": "utilities",
-      "permissions": [],
-      "appPermissions": {
-        "entitlements": [
-          {
-            "name": "platform-application"
-          },
-          {
-            "name": "com.apple.UIKit.status-bar-override-allow"
-          },
-          {
-            "name": "get-task-allow"
-          },
-          {
-            "name": "com.apple.security.iokit.user-client-class"
-          },
-          {
-            "name": "com.apple.security.exception.files.absolute-path.read-write"
-          },
-          {
-            "name": "com.apple.mobile.deleted.AllowFreeSpace"
-          },
-          {
-            "name": "com.apple.private.security.container-manager"
-          },
-          {
-            "name": "com.apple.private.security.no-container"
-          },
-          {
-            "name": "com.apple.private.security.no-sandbox"
-          },
-          {
-            "name": "com.apple.private.persona-mgmt"
-          },
-          {
-            "name": "com.apple.private.WebClips.read-write"
-          },
-          {
-            "name": "com.apple.locationd.simulation"
-          },
-          {
-            "name": "com.apple.SystemConfiguration.SCDynamicStore-write-access"
-          },
-          {
-            "name": "com.apple.private.security.system-application"
-          },
-          {
-            "name": "com.apple.private.coreservices.canmaplsdatabase"
-          },
-          {
-            "name": "com.apple.lsapplicationworkspace.rebuildappdatabases"
-          },
-          {
-            "name": "com.apple.private.MobileContainerManager.allowed"
-          },
-          {
-            "name": "com.apple.private.MobileInstallationHelperService.InstallDaemonOpsEnabled"
-          },
-          {
-            "name": "com.apple.private.MobileInstallationHelperService.allowed"
-          },
-          {
-            "name": "com.apple.private.uninstall.deletion"
-          },
-          {
-            "name": "com.apple.private.security.storage.MobileDocuments"
-          },
-          {
-            "name": "com.apple.managedconfiguration.profiled-access"
-          }
-        ],
-        "privacy": []
-      },
-      "screenshotURLs": [
-        "https://x08vt.github.io/skebederepo/img/screenshots/Nugget/AltClientONLY.png",
-        "https://x08vt.github.io/skebederepo/img/screenshots/Nugget/SS1-iphone.png",
-        "https://x08vt.github.io/skebederepo/img/screenshots/Nugget/SS2-iphone.png"
-      ],
-      "size": 7759462,
-      "subtitle": "𝚗𝚣𝚡 𝚛𝚎𝚙𝚘",
-      "tintColor": "0f3ff8",
-      "version": "2.0",
-      "versionDate": "2024-10-17",
-      "versionDescription": "",
-      "screenshots": {
-        "iphone": [
-          {
-            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/Nugget/AltClientONLY.png",
-            "width": 1370,
-            "height": 2712,
-          },
-          {
-            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/Nugget/SS1-iphone.png",
-            "width": 1370,
-            "height": 2712,
-          },
-          {
-            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/Nugget/SS2-iphone.png",
-            "width": 1370,
-            "height": 2712,
-          }
-        ],
-        "ipad": [
-          {
-            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/Nugget/AltClientONLY.png",
-            "width": 1370,
-            "height": 2712,
-          },
-          {
-            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/Nugget/SS1-ipad.png",
-            "width": 2640,
-            "height": 1920,
-          },
-          {
-            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/Nugget/SS2-ipad.png",
-            "width": 2640,
-            "height": 1920,
-          }
-        ]
-      }
-    },
-    {
-      "beta": false,
       "bundleIdentifier": "au.com.savageinteractive.procreate",
       "developerName": "Savage Interactive Pty Ltd",
       "downloadURL": "https://github.com/x08vt/skebederepo/releases/download/lel/Procreate.ipa",
@@ -936,8 +936,8 @@
   ],
   "featuredApps": [
     "com.epicgames.FortniteGame",
-    "au.com.savageinteractive.procreate",
-    "com.kdt.livecontainer"
+    "com.kdt.livecontainer",
+    "au.com.savageinteractive.procreate"
   ],
   "identifier": "com.slv.nzx",
   "name": "𝚗𝚣𝚡 𝚛𝚎𝚙𝚘",
