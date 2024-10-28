@@ -422,7 +422,63 @@
       "tintColor": "852afa",
       "version": "31.41",
       "versionDate": "2024-10-25T14:00:00-07:00",
-      "versionDescription": ""
+      "versionDescription": "",
+      "screenshots": {
+        "iphone": [
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/Fortnite/SS1-iphone.png",
+            "width": 2712,
+            "height": 1370,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/Fortnite/SS2-iphone.png",
+            "width": 2712,
+            "height": 1370,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/Fortnite/SS3-iphone.png",
+            "width": 2712,
+            "height": 1370,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/Fortnite/SS4-iphone.png",
+            "width": 2712,
+            "height": 1370,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/Fortnite/SS5-iphone.png",
+            "width": 2712,
+            "height": 1370,
+          }
+        ],
+        "ipad": [
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/Fortnite/SS1-ipad.png",
+            "width": 2640,
+            "height": 1920,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/Fortnite/SS2-ipad.png",
+            "width": 2640,
+            "height": 1920,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/Fortnite/SS3-ipad.png",
+            "width": 2640,
+            "height": 1920,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/Fortnite/SS4-ipad.png",
+            "width": 2640,
+            "height": 1920,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/Fortnite/SS5-ipad.png",
+            "width": 2640,
+            "height": 1920,
+          }
+        ]
+      }
     },
     {
       "beta": false,
