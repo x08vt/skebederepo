@@ -488,20 +488,77 @@
       "downloadURL": "https://github.com/x08vt/skebederepo/releases/download/lel/FortniteHF.ipa",
       "iconURL": "https://x08vt.github.io/skebederepo/img/Fortnite.png",
       "localizedDescription": "Explore large, destructible environments where no two games are ever the same. Team up with friends by sprinting, climbing and smashing your way to earn your Victory Royale, whether you choose to build up in Fortnite Battle Royale or go no-builds in Fortnite Zero Build. Discover even more ways to play across thousands of creator-made game genres: adventure, roleplay, survival and more. Or, band together with up to three friends to fend off hordes of monsters in Save the World.",
-      "name": "Fortnite+CAHighFPS",
+      "name": "Fortnite (No FPS Limit)",
       "category": "games",
       "screenshotURLs": [
-        "https://x08vt.github.io/skebederepo/img/screenshots/Fortnite/ss1.png",
-        "https://x08vt.github.io/skebederepo/img/screenshots/Fortnite/ss2.png",
-        "https://x08vt.github.io/skebederepo/img/screenshots/Fortnite/ss3.png",
-        "https://x08vt.github.io/skebederepo/img/screenshots/Fortnite/ss4.png"
+        "https://x08vt.github.io/skebederepo/img/screenshots/FortniteNFC/SS1-iphone.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/FortniteNFC/SS2-iphone.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/FortniteNFC/SS3-iphone.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/FortniteNFC/SS4-iphone.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/FortniteNFC/SS5-iphone.png"
       ],
       "size": 282066944,
       "subtitle": "𝚗𝚣𝚡 𝚛𝚎𝚙𝚘",
       "tintColor": "6cd9f8",
       "version": "31.41",
       "versionDate": "2024-10-25T14:00:00-07:00",
-      "versionDescription": ""
+      "versionDescription": "",
+      "screenshots": {
+        "iphone": [
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/FortniteNFC/SS1-iphone.png",
+            "width": 2712,
+            "height": 1370,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/FortniteNFC/SS2-iphone.png",
+            "width": 2712,
+            "height": 1370,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/FortniteNFC/SS3-iphone.png",
+            "width": 2712,
+            "height": 1370,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/FortniteNFC/SS4-iphone.png",
+            "width": 2712,
+            "height": 1370,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/FortniteNFC/SS5-iphone.png",
+            "width": 2712,
+            "height": 1370,
+          }
+        ],
+        "ipad": [
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/FortniteNFC/SS1-ipad.png",
+            "width": 2640,
+            "height": 1920,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/FortniteNFC/SS2-ipad.png",
+            "width": 2640,
+            "height": 1920,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/FortniteNFC/SS3-ipad.png",
+            "width": 2640,
+            "height": 1920,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/FortniteNFC/SS4-ipad.png",
+            "width": 2640,
+            "height": 1920,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/FortniteNFC/SS5-ipad.png",
+            "width": 2640,
+            "height": 1920,
+          }
+        ]
+      }
     },
     {
       "beta": false,
