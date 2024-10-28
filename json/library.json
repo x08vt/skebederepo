@@ -38,7 +38,7 @@
       "permissions": [
         {
           "type": "microphone",
-          "usageDescription": "While LiveContainer doesn't directly ask for this permission, any apps you install may require this."
+          "usageDescription": "While LiveContainer doesn't directly ask for this permission, any apps you install may request this."
         }
       ],
       "appPermissions": {
@@ -57,28 +57,46 @@
           },
           {
             "name": "keychain-access-groups"
+          },
+          {
+            "name": "application-identifier"
+          },
+          {
+            "name": "com.app.developer.team-identifier"
           }
         ],
         "privacy": [
           {
             "name": "Microphone",
-            "usageDescription": "While LiveContainer doesn't directly ask for this permission, any apps you install may require this."
+            "usageDescription": "While LiveContainer doesn't directly ask for this permission, any apps you install may request this."
           },
           {
             "name": "Camera",
-            "usageDescription": "While LiveContainer doesn't directly ask for this permission, any apps you install may require this."
+            "usageDescription": "While LiveContainer doesn't directly ask for this permission, any apps you install may request this."
           },
           {
             "name": "LocalNetwork",
-            "usageDescription": "While LiveContainer doesn't directly ask for this permission, any apps you install may require this."
+            "usageDescription": "While LiveContainer doesn't directly ask for this permission, any apps you install may request this."
           },
           {
             "name": "PhotoLibrary",
-            "usageDescription": "While LiveContainer doesn't directly ask for this permission, any apps you install may require this."
+            "usageDescription": "While LiveContainer doesn't directly ask for this permission, any apps you install may request this."
           },
           {
             "name": "Location",
-            "usageDescription": "While LiveContainer doesn't directly ask for this permission, any apps you install may require this."
+            "usageDescription": "While LiveContainer doesn't directly ask for this permission, any apps you install may request this."
+          },
+          {
+            "name": "BluetoothPeripheral",
+            "usageDescription": "While LiveContainer doesn't directly ask for this permission, any apps you install may request this."
+          },
+          {
+            "name": "BluetoothAlways",
+            "usageDescription": "While LiveContainer doesn't directly ask for this permission, any apps you install may request this."
+          },
+          {
+            "name": "FaceID",
+            "usageDescription": "LiveContainer uses this as an authentication measure for any apps you wish to lock."
           }
         ]
       },
@@ -144,6 +162,23 @@
       "localizedDescription": "Features:\n- Hack subscription\n\nDuet turns your iPad or iPhone into the most advanced extra display for your Mac & PC. Developed by a team of ex-Apple engineers, Duet offers unparalleled performance and display quality - all with zero lag.",
       "name": "Duet Display",
       "category": "utilities",
+      "permissions": [],
+      "appPermissions": {
+        "entitlements": [
+          {
+            "name": "application-identifier"
+          },
+          {
+            "name": "com.app.developer.team-identifier"
+          }
+        ],
+        "privacy": [
+          {
+            "name": "LocalNetwork",
+            "usageDescription": "Duet requires this permission in order to find and connect to computers wirelessly."
+          }
+        ]
+      },
       "screenshotURLs": [
         "https://x08vt.github.io/skebederepo/img/screenshots/DuetDisplay/SS1-iphon.png",
         "https://x08vt.github.io/skebederepo/img/screenshots/DuetDisplay/SS2-iphon.png",
@@ -204,19 +239,46 @@
       "permissions": [
         {
           "type": "music",
-          "usageDescription": "Spotify requires this permission in order to listen to music files from Apple Music locally."
+          "usageDescription": "Spotify requests this permission in order to listen to music files from Apple Music locally."
         }
       ],
       "appPermissions": {
+        "entitlements": [
+          {
+            "name": "application-identifier"
+          },
+          {
+            "name": "com.app.developer.team-identifier"
+          },
+          {
+            "name": "aps-environment"
+          }
+        ],
         "privacy": [
           {
             "name": "LocalNetwork",
-            "usageDescription": "Spotify requires this permission in order to stream content to other devices that support Spotify Playback."
+            "usageDescription": "Spotify requests this permission in order to stream content to other devices that support Spotify Playback."
           },
           {
             "name": "AppleMusic",
-            "usageDescription": "Spotify requires this permission in order to listen to music files from Apple Music locally."
-          }
+            "usageDescription": "Spotify requests this permission in order to listen to music files from Apple Music locally."
+          },
+          {
+            "name": "BluetoothAlways",
+            "usageDescription": "Spotify requests this permission in order to find and connect to Bluetooth devices that are supported by Spotify."
+          },
+          {
+            "name": "Camera",
+            "usageDescription": "Spotify requests this permission in order to scan Spotify Codes."
+          },
+          {
+            "name": "PhotoLibrary",
+            "usageDescription": "Spotify requests this permission in order to add photos from your photo library."
+          },
+          {
+            "name": "UserTracking",
+            "usageDescription": "Spotify requests this permission for telemetry purposes."
+          },
         ]
       },
       "screenshotURLs": [
@@ -276,6 +338,23 @@
       "localizedDescription": "Feather is a free on-device iOS application manager/installer built with UIKit for quality.\n\nFeatures:\n\nAltstore repo support. Supporting Legacy and 2.0 repo structures\nImport your own .ipa's.\nInject tweaks when signing apps.\nInstall applications straight to your device seamlessly over the air.\nAllows multiple certificate imports for easy switching.\nConfigurable signing options. (name, bundleid, version, other plist options)\nMeant to be used with Apple Accounts that are apart of ADP (Apple Developer Program). however other certificates can also work!\nEasy resigning! If you have another certificate you would like to use on an app you may resign and reinstall that same app!\nNo tracking, analytics, or any of the sort. Your information such as UDID and certificates will never leave the device.",
       "name": "Feather",
       "category": "utilities",
+      "permissions": [],
+      "appPermissions": {
+        "entitlements": [
+          {
+            "name": "application-identifier"
+          },
+          {
+            "name": "com.app.developer.team-identifier"
+          }
+        ],
+        "privacy": [
+          {
+            "name": "PhotoLibraryAdd",
+            "usageDescription": "Feather requests this permission in order to replace app icons by adding photos from your photo library."
+          }
+        ]
+      },
       "screenshotURLs": [
         "https://x08vt.github.io/skebederepo/img/screenshots/Feather/SS1-iphone.png",
         "https://x08vt.github.io/skebederepo/img/screenshots/Feather/SS2-iphone.png",
@@ -344,6 +423,23 @@
       "localizedDescription": "**THIS IS THE NON-TELEMETRY VERSION** \nSign application for iOS is a software tool that enables users to sign documents electronically using their Apple devices, such as iPhones and iPads.\n\nTypically, these applications allow users to:\n1. Upload Documents: Import PDFs or other document types from various sources, including email, cloud storage, or directly from the device.\n2. Sign Documents: Utilize touch or stylus input to create a digital signature, which can be saved for future use.\n3. Form Filling: Fill out forms and add text, checkboxes, and other annotations to documents.\n4. Secure Signing: Ensure document integrity through encryption and authentication methods, often including options for secure authentication.\n5. Tracking and Notifications: Provide functionalities to track document status, send reminders, and notify parties when documents are signed.\n6. Integration: Many eSign apps integrate with other software solutions like document management systems, email clients, and productivity tools.",
       "name": "ESign",
       "category": "utilities",
+      "permissions": [],
+      "appPermissions": {
+        "entitlements": [
+          {
+            "name": "application-identifier"
+          },
+          {
+            "name": "com.app.developer.team-identifier"
+          }
+        ],
+        "privacy": [
+          {
+            "name": "PhotoLibraryAdd",
+            "usageDescription": "ESign requests this permission in order to replace app icons by adding photos from your photo library."
+          }
+        ]
+      },
       "screenshotURLs": [
         "https://x08vt.github.io/skebederepo/img/screenshots/ESign/SS1-iphone.png",
         "https://x08vt.github.io/skebederepo/img/screenshots/ESign/SS2-iphone.png",
@@ -412,6 +508,29 @@
       "localizedDescription": "Explore large, destructible environments where no two games are ever the same. Team up with friends by sprinting, climbing and smashing your way to earn your Victory Royale, whether you choose to build up in Fortnite Battle Royale or go no-builds in Fortnite Zero Build. Discover even more ways to play across thousands of creator-made game genres: adventure, roleplay, survival and more. Or, band together with up to three friends to fend off hordes of monsters in Save the World.",
       "name": "Fortnite",
       "category": "games",
+      "permissions": [],
+      "appPermissions": {
+        "entitlements": [
+          {
+            "name": "application-identifier"
+          },
+          {
+            "name": "com.app.developer.team-identifier"
+          },
+          {
+            "name": "com.apple.developer.kernel.extended-virtual-addressing"
+          },
+          {
+            "name": "com.apple.developer.kernel.increased-memory-limit"
+          }
+        ],
+        "privacy": [
+          {
+            "name": "Microphone",
+            "usageDescription": "Fortnite requests this permission in order to enable the use of voice chat."
+          }
+        ]
+      },
       "screenshotURLs": [
         "https://x08vt.github.io/skebederepo/img/screenshots/Fortnite/SS1-iphone.png",
         "https://x08vt.github.io/skebederepo/img/screenshots/Fortnite/SS2-iphone.png",
@@ -491,6 +610,29 @@
       "localizedDescription": "Explore large, destructible environments where no two games are ever the same. Team up with friends by sprinting, climbing and smashing your way to earn your Victory Royale, whether you choose to build up in Fortnite Battle Royale or go no-builds in Fortnite Zero Build. Discover even more ways to play across thousands of creator-made game genres: adventure, roleplay, survival and more. Or, band together with up to three friends to fend off hordes of monsters in Save the World.",
       "name": "Fortnite (No FPS Limit)",
       "category": "games",
+      "permissions": [],
+      "appPermissions": {
+        "entitlements": [
+          {
+            "name": "application-identifier"
+          },
+          {
+            "name": "com.app.developer.team-identifier"
+          },
+          {
+            "name": "com.apple.developer.kernel.extended-virtual-addressing"
+          },
+          {
+            "name": "com.apple.developer.kernel.increased-memory-limit"
+          }
+        ],
+        "privacy": [
+          {
+            "name": "Microphone",
+            "usageDescription": "Fortnite requests this permission in order to enable the use of voice chat."
+          }
+        ]
+      },
       "screenshotURLs": [
         "https://x08vt.github.io/skebederepo/img/screenshots/FortniteNFC/SS1-iphone.png",
         "https://x08vt.github.io/skebederepo/img/screenshots/FortniteNFC/SS2-iphone.png",
@@ -570,6 +712,18 @@
       "localizedDescription": "This Flappy Bird is a revival of the original Flappy Bird by Dong Nguyen. There are a many new features to enhance gameplay as well!\n\n• Tap to flap\n• Avoid the hitting the pipes\n• Flap for infinity!",
       "name": "Flappy Bird",
       "category": "games",
+      "permissions": [],
+      "appPermissions": {
+        "entitlements": [
+          {
+            "name": "application-identifier"
+          },
+          {
+            "name": "com.app.developer.team-identifier"
+          }
+        ],
+        "privacy": []
+      },
       "screenshotURLs": [
         "https://i.imgur.com/nIq1VVv_d.webp?maxwidth=760&fidelity=grand",
         "https://i.imgur.com/TZBdg7M_d.webp?maxwidth=760&fidelity=grand",
@@ -726,7 +880,7 @@
       "permissions": [
         {
           "type": "photos",
-          "usageDescription": "Procreate requires this permission to save your artworks to Photos."
+          "usageDescription": "Procreate requests this permission to save your artworks to Photos."
         }
       ],
       "appPermissions": {
@@ -741,7 +895,11 @@
         "privacy": [
           {
             "name": "PhotoLibrary",
-            "usageDescription": "Procreate requires this permission to save your artworks to Photos."
+            "usageDescription": "Procreate requests this permission to save your artworks to Photos."
+          },
+          {
+            "name": "PhotoLibraryAdd",
+            "usageDescription": "Procreate requests this permission to add photos to your artworks."
           }
         ]
       },
