@@ -144,16 +144,52 @@
       "name": "Duet Display",
       "category": "utilities",
       "screenshotURLs": [
-        "https://x08vt.github.io/skebederepo/img/screenshots/DuetDisplay/ss1.png",
-        "https://x08vt.github.io/skebederepo/img/screenshots/DuetDisplay/ss2.png"
+        "https://x08vt.github.io/skebederepo/img/screenshots/DuetDisplay/SS1-iphone.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/DuetDisplay/SS2-iphone.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/DuetDisplay/SS3-iphone.png"
       ],
       "size": 42991616,
       "subtitle": "𝚗𝚣𝚡 𝚛𝚎𝚙𝚘",
       "tintColor": "77a7e1",
       "version": "2.24.0",
       "versionDate": "2024-10-13T14:00:00-07:00",
-      "versionDescription": ""
-      
+      "versionDescription": "",
+      "screenshots": {
+        "iphone": [
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/DuetDisplay/SS1-iphone.png",
+            "width": 2712,
+            "height": 1370,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/DuetDisplay/SS2-iphone.png",
+            "width": 2712,
+            "height": 1370,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/DuetDisplay/SS3-iphone.png",
+            "width": 2712,
+            "height": 1370,
+          }
+        ],
+        "ipad": [
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/DuetDisplay/SS1-ipad.png",
+            "width": 2640,
+            "height": 1920,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/DuetDisplay/SS2-ipad.png",
+            "width": 2640,
+            "height": 1920,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/DuetDisplay/SS3-ipad.png",
+            "width": 2640,
+            "height": 1920,
+          }
+        ]
+      }   
     },
     {
       "beta": false,
