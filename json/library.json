@@ -392,10 +392,10 @@
         ]
       },
       "screenshotURLs": [
-        "https://x08vt.github.io/skebederepo/img/screenshots/Feather/SS1-iphone.png",
-        "https://x08vt.github.io/skebederepo/img/screenshots/Feather/SS2-iphone.png",
-        "https://x08vt.github.io/skebederepo/img/screenshots/Feather/SS3-iphone.png",
-        "https://x08vt.github.io/skebederepo/img/screenshots/Feather/SS4-iphone.png"
+        "https://x08vt.github.io/skebederepo/img/screenshots/Feather/SS1-iphone-1.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/Feather/SS2-iphone-1.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/Feather/SS3-iphone-1.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/Feather/SS4-iphone-1.png"
       ],
       "size": 12582912,
       "subtitle": "𝚗𝚣𝚡 𝚛𝚎𝚙𝚘",
@@ -406,22 +406,22 @@
       "screenshots": {
         "iphone": [
           {
-            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/Feather/SS1-iphone.png",
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/Feather/SS1-iphone-1.png",
             "width": 1370,
             "height": 2712,
           },
           {
-            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/Feather/SS2-iphone.png",
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/Feather/SS2-iphone-1.png",
             "width": 1370,
             "height": 2712,
           },
           {
-            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/Feather/SS3-iphone.png",
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/Feather/SS3-iphone-1.png",
             "width": 1370,
             "height": 2712,
           },
           {
-            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/Feather/SS4-iphone.png",
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/Feather/SS4-iphone-1.png",
             "width": 1370,
             "height": 2712,
           }
