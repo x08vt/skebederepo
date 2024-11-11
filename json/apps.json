@@ -1,0 +1,145 @@
+{
+  "name": "My Example Source",
+  "subtitle": "A source for all of my apps",
+  "description": "Welcome to my source! Here you'll find all of my apps.",
+  "iconURL": "https://example.com/source_icon.png",
+  "headerURL": "https://example.com/source_header.png",
+  "website": "https://example.com",
+  "patreonURL": "https://patreon.com/mycampaign"
+  "tintColor": "#F54F32",
+  "featuredApps": [
+    "com.example.myapp",
+    "com.example.anotherapp"
+  ],
+  "apps": [
+    {
+      "beta": false,
+      "bundleIdentifier": "com.kdt.livecontainer",
+      "developerName": "khanhduytran0",
+      "headerURL": "https://x08vt.github.io/skebederepo/img/sourceHEADER/sourceHEADER",
+      "downloadURL": "https://github.com/x08vt/skebederepo/releases/download/lel/LiveContainer.ipa",
+      "iconURL": "https://x08vt.github.io/skebederepo/img/LiveContainer.png",
+      "localizedDescription": "**THIS APP ONLY TO BE USED IN ALTSTORE OR SIDESTORE** \n\nRun iOS app without actually installing it!\n\nAllows you to install unlimited apps (10 apps limit of free developer account do not apply here!), have multiple versions of an app installed and multiple data containers.\n\nWhen JIT is available, codesign is entirely bypassed, no need to sign your apps before installing. Otherwise, app will be signed with the same certificate used by LiveContainer.",
+      "name": "LiveContainer",
+      "size": 194560,
+      "subtitle": "𝚗𝚣𝚡 𝚛𝚎𝚙𝚘",
+      "tintColor": "007bff",
+      "version": "3.0.0",
+      "versionDate": "2024-10-10T14:00:00-07:00",
+      "versionDescription": "",
+      "category": "utilities",
+      "permissions": [
+        {
+          "type": "microphone",
+          "usageDescription": "While LiveContainer doesn't directly ask for this permission, any apps you install may request this."
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          {
+            "name": "com.apple.developer.kernel.extended-virtual-addressing"
+          },
+          {
+            "name": "com.apple.developer.kernel.increased-memory-limit"
+          },
+          {
+            "name": "com.apple.security.application-groups"
+          },
+          {
+            "name": "get-task-allow"
+          },
+          {
+            "name": "keychain-access-groups"
+          }
+        ],
+        "privacy": [
+          {
+            "name": "Microphone",
+            "usageDescription": "While LiveContainer doesn't directly ask for this permission, any apps you install may request this."
+          },
+          {
+            "name": "Camera",
+            "usageDescription": "While LiveContainer doesn't directly ask for this permission, any apps you install may request this."
+          },
+          {
+            "name": "LocalNetwork",
+            "usageDescription": "While LiveContainer doesn't directly ask for this permission, any apps you install may request this."
+          },
+          {
+            "name": "PhotoLibrary",
+            "usageDescription": "While LiveContainer doesn't directly ask for this permission, any apps you install may request this."
+          },
+          {
+            "name": "Location",
+            "usageDescription": "While LiveContainer doesn't directly ask for this permission, any apps you install may request this."
+          },
+          {
+            "name": "BluetoothPeripheral",
+            "usageDescription": "While LiveContainer doesn't directly ask for this permission, any apps you install may request this."
+          },
+          {
+            "name": "BluetoothAlways",
+            "usageDescription": "While LiveContainer doesn't directly ask for this permission, any apps you install may request this."
+          },
+          {
+            "name": "FaceID",
+            "usageDescription": "LiveContainer uses this as an authentication measure for any apps you wish to lock."
+          }
+        ]
+      },
+      "screenshotURLs": [
+        "https://x08vt.github.io/skebederepo/img/screenshots/LiveContainer/AltClientONLY.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/LiveContainer/SS1.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/LiveContainer/SS2.png",
+        "https://x08vt.github.io/skebederepo/img/screenshots/LiveContainer/SS3.png"
+      ],
+      "screenshots": {
+        "iphone": [
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/LiveContainer/AltClientONLY.png",
+            "width": 1370,
+            "height": 2712,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/LiveContainer/SS1.png",
+            "width": 1370,
+            "height": 2712,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/LiveContainer/SS2.png",
+            "width": 1370,
+            "height": 2712,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/LiveContainer/SS3.png",
+            "width": 1370,
+            "height": 2712,
+          }
+        ],
+        "ipad": [
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/LiveContainer/AltClientONLY.png",
+            "width": 1370,
+            "height": 2712,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/LiveContainer/SS1-ipad.png",
+            "width": 2640,
+            "height": 1920,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/LiveContainer/SS2-ipad.png",
+            "width": 2640,
+            "height": 1920,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/LiveContainer/SS3-ipad.png",
+            "width": 2640,
+            "height": 1920,
+          }
+        ]
+      }
+    }
+  ],
+  "news": [],
+}
