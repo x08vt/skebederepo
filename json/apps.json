@@ -22,71 +22,58 @@
       "versionDate": "2024-10-10T14:00:00-07:00",
       "versionDescription": "",
       "category": "utilities",
-      "permissions": [
-        {
-          "type": "microphone",
-          "usageDescription": "While LiveContainer doesn't directly ask for this permission, any apps you install may request this."
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [
-          {
-            "name": "com.apple.developer.kernel.extended-virtual-addressing"
-          },
-          {
-            "name": "com.apple.developer.kernel.increased-memory-limit"
-          },
-          {
-            "name": "com.apple.security.application-groups"
-          },
-          {
-            "name": "get-task-allow"
-          },
-          {
-            "name": "keychain-access-groups"
-          }
-        ],
-        "privacy": [
-          {
-            "name": "Microphone",
-            "usageDescription": "While LiveContainer doesn't directly ask for this permission, any apps you install may request this."
-          },
-          {
-            "name": "Camera",
-            "usageDescription": "While LiveContainer doesn't directly ask for this permission, any apps you install may request this."
-          },
-          {
-            "name": "LocalNetwork",
-            "usageDescription": "While LiveContainer doesn't directly ask for this permission, any apps you install may request this."
-          },
-          {
-            "name": "PhotoLibrary",
-            "usageDescription": "While LiveContainer doesn't directly ask for this permission, any apps you install may request this."
-          },
-          {
-            "name": "Location",
-            "usageDescription": "While LiveContainer doesn't directly ask for this permission, any apps you install may request this."
-          },
-          {
-            "name": "BluetoothPeripheral",
-            "usageDescription": "While LiveContainer doesn't directly ask for this permission, any apps you install may request this."
-          },
-          {
-            "name": "BluetoothAlways",
-            "usageDescription": "While LiveContainer doesn't directly ask for this permission, any apps you install may request this."
-          },
-          {
-            "name": "FaceID",
-            "usageDescription": "LiveContainer uses this as an authentication measure for any apps you wish to lock."
-          }
-        ]
-      },
       "screenshotURLs": [
         "https://x08vt.github.io/skebederepo/img/screenshots/LiveContainer/AltClientONLY.png",
         "https://x08vt.github.io/skebederepo/img/screenshots/LiveContainer/SS1.png",
         "https://x08vt.github.io/skebederepo/img/screenshots/LiveContainer/SS2.png",
         "https://x08vt.github.io/skebederepo/img/screenshots/LiveContainer/SS3.png"
       ],
+      "screenshots": {
+        "iphone": [
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/LiveContainer/AltClientONLY.png",
+            "width": 1370,
+            "height": 2712,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/LiveContainer/SS1.png",
+            "width": 1370,
+            "height": 2712,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/LiveContainer/SS2.png",
+            "width": 1370,
+            "height": 2712,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/LiveContainer/SS3.png",
+            "width": 1370,
+            "height": 2712,
+          }
+        ],
+        "ipad": [
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/LiveContainer/AltClientONLY.png",
+            "width": 1370,
+            "height": 2712,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/LiveContainer/SS1-ipad.png",
+            "width": 2640,
+            "height": 1920,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/LiveContainer/SS2-ipad.png",
+            "width": 2640,
+            "height": 1920,
+          },
+          {
+            "imageURL": "https://x08vt.github.io/skebederepo/img/screenshots/LiveContainer/SS3-ipad.png",
+            "width": 2640,
+            "height": 1920,
+          }
+        ]
+      }
     }
   ],
   "news": [],
