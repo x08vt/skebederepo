@@ -4,13 +4,7 @@
   "description": "Welcome to my source! Here you'll find all of my apps.",
   "iconURL": "https://example.com/source_icon.png",
   "headerURL": "https://example.com/source_header.png",
-  "website": "https://example.com",
-  "patreonURL": "https://patreon.com/mycampaign"
-  "tintColor": "#F54F32",
-  "featuredApps": [
-    "com.example.myapp",
-    "com.example.anotherapp"
-  ],
+  "tintColor": "F54F32",
   "apps": [
     {
       "beta": false,
