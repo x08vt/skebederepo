@@ -5,7 +5,6 @@
       "beta": false,
       "bundleIdentifier": "com.kdt.livecontainer",
       "developerName": "khanhduytran0",
-      "headerURL": "https://x08vt.github.io/skebederepo/img/sourceHEADER/sourceHEADER",
       "downloadURL": "https://github.com/x08vt/skebederepo/releases/download/lel/LiveContainer.ipa",
       "iconURL": "https://x08vt.github.io/skebederepo/img/LiveContainer.png",
       "localizedDescription": "**THIS APP ONLY TO BE USED IN ALTSTORE OR SIDESTORE** \n\nRun iOS app without actually installing it!\n\nAllows you to install unlimited apps (10 apps limit of free developer account do not apply here!), have multiple versions of an app installed and multiple data containers.\n\nWhen JIT is available, codesign is entirely bypassed, no need to sign your apps before installing. Otherwise, app will be signed with the same certificate used by LiveContainer.",
