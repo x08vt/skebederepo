@@ -2,45 +2,63 @@
 #PLAYLIST:my-playlist
 # Built with the CODECS.COM Playlist Builder
 
-#EXTINF:-1 tvg-id="Buzzr.us" tvg-logo="https://camo.githubusercontent.com/6e81e6116ad60a8f6741430fb0c22937a7560128f4b48355daab6e714d8723c9/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f642f64362f42757a7a725f6c6f676f2e7376672f39363070782d42757a7a725f6c6f676f2e7376672e706e67" group-title="USA",Buzzr
-http://23.237.104.106:8080/USA_BUZZR/index.m3u8
-
-#EXTINF:-1 tvg-id="WeatherNation.us" tvg-logo="https://camo.githubusercontent.com/965747594b7845e2a5e0faf7fa62626ea87ea0a46e185193cdf033c2373bf61d/68747470733a2f2f67726170682e66616365626f6f6b2e636f6d2f576561746865724e6174696f6e2f706963747572653f77696474683d323030266865696768743d323030" group-title="USA",WeatherNation
-https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8
-
-#EXTINF:-1 tvg-id="KUVNDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png" group-title="USA (TX)",Univision 23
+#EXTINF:-1 tvg-id="KUVNDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png",Univision 23 Dallas (US)
 https://streaming-live-fcdn.api.prd.univisionnow.com/kuvn/kuvn.isml/hls/kuvn.m3u8
 
-#EXTINF:-1 tvg-id="Telemundo.us" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="USA",Telemundo Puerto Rico
+#EXTINF:-1 tvg-id="Telemundo.us" tvg-logo="https://i.imgur.com/DVASpQj.png",Telemundo Puerto Rico (US)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
 
-#EXTINF:-1 tvg-id="UniMas.us" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="USA",Unimas
+#EXTINF:-1 tvg-id="UniMas.us" tvg-logo="https://i.imgur.com/e3Z2wzG.png",Unimas (US)
 https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8
 
-#EXTINF:-1 tvg-id="Canal2.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Canal_2_TCS.png/960px-Canal_2_TCS.png" group-title="ESV",Canal 2
+#EXTINF:-1 tvg-id="TUDN.us" tvg-logo="https://i.imgur.com/oT5CAvd.png",TUDN (US)
+https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
+
+#EXTINF:-1 tvg-id="USBD17000051M" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD17000051M_20260602T091505SQUARE.png",1982 Mountain Men (US)
+https://jmp2.uk/stvp-USBD17000051M
+
+#EXTINF:-1 tvg-id="USBC3600005U9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600005U9_20260505T062506SQUARE.png",2525 Discovery Turbo TV (US)
+https://jmp2.uk/stvp-USBC3600005U9
+
+#EXTINF:-1 tvg-id="USBD1700006T2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700006T2_20261002T182019SQUARE.png",2712 Storage Wars: LA (US)
+https://jmp2.uk/stvp-USBD1700006T2
+
+#EXTINF:-1 tvg-id="USBB520002173" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB520002173_20260825T040228SQUARE.png",2739 Ice Road Truckers (US)
+https://jmp2.uk/stvp-USBB520002173
+
+#EXTINF:-1 tvg-id="USBB52000246M" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB52000246M_20260721T032926SQUARE.png",2777 Deal Zone (US)
+https://jmp2.uk/stvp-USBB52000246M
+
+#EXTINF:-1 tvg-id="Canal2.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Canal_2_TCS.png/960px-Canal_2_TCS.png",Canal 2 (SV)
 http://186.33.26.18:8000/play/a0qp/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal6.sv" tvg-logo="https://i.imgur.com/M4muPLK.png" group-title="ESV",Canal 6
+#EXTINF:-1 tvg-id="Canal6.sv" tvg-logo="https://i.imgur.com/M4muPLK.png",Canal 6 (SV)
 http://45.167.2.101:8000/play/a0qs/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal9LaUnion.sv" tvg-logo="https://i.imgur.com/rdeUErb.png" group-title="ESV",Canal 9 La Union
+#EXTINF:-1 tvg-id="Canal9LaUnion.sv" tvg-logo="https://i.imgur.com/rdeUErb.png",Canal 9 La Union (SV)
 http://45.167.2.101:8000/play/a0r5/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal10.sv" tvg-logo="https://i.imgur.com/y2ppMnY.png" group-title="ESV",Canal 10
+#EXTINF:-1 tvg-id="Canal10.sv" tvg-logo="https://i.imgur.com/y2ppMnY.png",Canal 10 (SV)
 https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal12.sv" tvg-logo="https://i.imgur.com/WMv3yEf.png" group-title="ESV",Canal 12
+#EXTINF:-1 tvg-id="Canal12.sv" tvg-logo="https://i.imgur.com/WMv3yEf.png",Canal 12 (SV)
 http://186.33.26.18:8000/play/a0nw/index.m3u8
 
-#EXTINF:-1 tvg-id="SVPlus.sv" tvg-logo="https://i.imgur.com/bCcnLVL.png" group-title="ESV",SV+
+#EXTINF:-1 tvg-id="SVPlus.sv" tvg-logo="https://i.imgur.com/bCcnLVL.png",SV+ (SV)
 http://45.167.2.101:8000/play/a0qx/index.m3u8
 
-#EXTINF:-1 tvg-id="TigoSports.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" group-title="ESV",Tigo Sports
+#EXTINF:-1 tvg-id="TigoSports.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png",Tigo Sports (SV)
 http://45.167.2.101:8000/play/a0pp/index.m3u8
 
-#EXTINF:-1 tvg-id="TVOCanal23.sv" tvg-logo="https://i.imgur.com/nsXXEUZ.png" group-title="ESV",TVO Canal 23
+#EXTINF:-1 tvg-id="TVOCanal23.sv" tvg-logo="https://i.imgur.com/nsXXEUZ.png",TVO Canal 23 (SV)
 http://45.167.2.101:8000/play/a0qo/index.m3u8
 
-#EXTINF:-1 tvg-id="WOWTV.sv" tvg-logo="https://i.imgur.com/dHxaWyp.png" group-title="ESV",WOW TV
+#EXTINF:-1 tvg-id="WOWTV.sv" tvg-logo="https://i.imgur.com/dHxaWyp.png",WOW TV (SV)
 https://service.cdn-stream.com/wow/wow_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WeatherNation.us" tvg-logo="https://camo.githubusercontent.com/965747594b7845e2a5e0faf7fa62626ea87ea0a46e185193cdf033c2373bf61d/68747470733a2f2f67726170682e66616365626f6f6b2e636f6d2f576561746865724e6174696f6e2f706963747572653f77696474683d323030266865696768743d323030",WeatherNation (US)
+https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8
+
+#EXTINF:-1 tvg-id="Buzzr.us" tvg-logo="https://camo.githubusercontent.com/6e81e6116ad60a8f6741430fb0c22937a7560128f4b48355daab6e714d8723c9/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f642f64362f42757a7a725f6c6f676f2e7376672f39363070782d42757a7a725f6c6f676f2e7376672e706e67",Buzzr (US)
+http://23.237.104.106:8080/USA_BUZZR/index.m3u8
 
